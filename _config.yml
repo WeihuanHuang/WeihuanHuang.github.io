@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Website"
+title                    : "Weihuan Huang (黄伟桓)"
 title_separator          : "-"
 name                     : &name "Weihuan Huang (黄伟桓)"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "https://WeihuanHuang.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Weihuan Huang (黄伟桓)"
+  name             : "Dr. Weihuan Huang (黄伟桓)"
   pronouns         : # example: "she/her"  
   bio              : " "
   employer         : #"Nanjing University"
