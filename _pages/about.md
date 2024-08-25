@@ -13,13 +13,13 @@ Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Stat
 
 Education & Employment
 ======
-- 2022/08--now: &nbsp; **Assistant Professor**, School of Management & Engineering, **Nanjing University**
+- 2022/08--now: **Assistant Professor**, School of Management & Engineering, **Nanjing University**
 
-- 2020/08--2022/07: &nbsp; **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. L. Jeff Hong
+- 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. L. Jeff Hong
 
-- 2015/09--2020/06: &nbsp; **Ph.D. in Mathematics**, Institute for Financial Studies, **Shandong University**, Advisor: Prof. Zengjing Chen
+- 2015/09--2020/06: **Ph.D. in Mathematics**, Institute for Financial Studies, **Shandong University**, Advisor: Prof. Zengjing Chen
 
-- 2017/09--2019/08: &nbsp; **Joint-Ph.D. in Economics**, Department of Economics, **University of Kansas**, Advisor: Prof. Zongwu Cai
+- 2017/09--2019/08: **Joint-Ph.D. in Economics**, Department of Economics, **University of Kansas**, Advisor: Prof. Zongwu Cai
 
 Site-wide configuration
 ------
