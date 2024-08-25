@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Weihuan Huang (黄伟桓)"
+title                    : "Website"
 title_separator          : "-"
 name                     : &name "Weihuan Huang (黄伟桓)"
 description              : &description "personal description"
