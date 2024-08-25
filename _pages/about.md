@@ -60,3 +60,14 @@ Courses Taught:
 ======
 - *Principles of Economics*, Fall 2023, Spring 2024, Fall 2024, at Nanjing University
 - *Advanced Functional Analysis*, Fall 2019, at Shandong University
+
+Academic Grants: 
+======
+- NSFC *Young-Scientists Fund Program* #12301601, 2024/01/01--2026/12/31, **PI**
+- NSFC *Major Program* #72394364, 2024/01/01--2028/12/31, Participate
+- NSFC *General Program* #72371125, 2024/01/01–-2027/12/31, Participate
+- NSFC-RGC #7211101019, 2022/01/01–-2025/12/31, Participate
+- NSFC *Major Program* #72091211, 2021/01/01–-2025/12/31, Participate
+- NSFC *General Program* #11871050, 2019/01/01–-2022/12/31, Participate
+- NSFC *Young-Scientists Fund Program* #11701331, 2018/01/01-–2020/12/31, Participate
+- NSFC *Young-Scientists Fund Program* #11601280, 2017/01/01-–2019/12/31, Participate
