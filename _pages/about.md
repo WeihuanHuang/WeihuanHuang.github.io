@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-**Weihuan Huang (黄伟桓)**, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University. 
+- **Weihuan Huang (黄伟桓)**, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University. 
 
-His **research interests** encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. 
+- Weihuan Huang's **research interests** encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. 
 
-His work has been published in several prestigious academic journals, including the UTD journal **Operations Research**. He is the **PI** of a young-scientists fund of NSFC and participates in seven NSFC grants, two of which are major programs.
+- Weihuan Huang's work has been published in several prestigious academic journals, including the UTD journal **Operations Research**. He is the **PI** of a young-scientists fund of NSFC and participates in seven NSFC grants, two of which are major programs.
 
 Employment
 ======
