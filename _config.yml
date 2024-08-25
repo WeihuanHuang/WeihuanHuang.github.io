@@ -22,11 +22,11 @@ repository               : "https://WeihuanHuang.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dr. Weihuan Huang"
-  pronouns         : "He"  
+  name             : "Weihuan Huang"
+  pronouns         : "Ph.D in Maths"  
   bio              : "Asistant Professor"
+  location         : "School of Management & Engineering"
   employer         : "Nanjing University"
-  location         : "Nanjing 210093, China"
   URL              : "sme.nju.edu.cn/hwh"
   email            : "hwh@nju.edu.cn" 
 
