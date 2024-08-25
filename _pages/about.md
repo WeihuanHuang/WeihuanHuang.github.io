@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weihuan Huang (黄伟桓)"
+title: "About Me"
 author_profile: Ture
 redirect_from: 
   - /about/
