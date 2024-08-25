@@ -68,9 +68,9 @@ Adhoc Referee Service
   
 - *Communications in Statistics - Theory and Methods*
   
-- *Operations Research Transactions* (Chinese)
+- *Operations Research Transactions* (in Chinese)
   
-- *JOURNAL OF SYSTEMS & MANAGEMENT* (Chinese)
+- *Journal of Systems & Management* (in Chinese)
 
 Courses Taught
 ======
