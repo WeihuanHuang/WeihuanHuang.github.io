@@ -26,7 +26,7 @@ Education
 
 Research Interests: 
 ------
-My research interests encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning.
+Probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning.
 
 Selected Papers: 
 ------
