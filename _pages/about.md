@@ -11,9 +11,7 @@ Employment
 ======
 Assistant Professor, 
 
-School of Management & Engineering,
-
-**Nanjing University**,
+School of Management & Engineering, **Nanjing University**,
 
 Email: hwh@nju.edu.cn 
 
