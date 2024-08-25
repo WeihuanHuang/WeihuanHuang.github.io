@@ -11,9 +11,7 @@ redirect_from:
 
 Employment
 ======
-**Assistant Professor**, School of Management & Engineering, **Nanjing University**,
-
-Email: hwh@nju.edu.cn 
+- 2022/08--now: **Assistant Professor**, School of Management & Engineering, **Nanjing University**, Email: hwh@nju.edu.cn 
 
 
 Education
