@@ -13,7 +13,7 @@ Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Stat
 
 Education & Employment
 ======
-2022/08 -- now/ / / / Assistant Professor, Nanjing University 
+2022/08 -- now\ \ \ \ Assistant Professor, Nanjing University 
 
 2020/08 -- 2022/07  Postdoc, Fudan University, Mentor: Prof. L. Jeff Hong 
 
