@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Weihuan Huang (黄伟桓)"
   pronouns         : # example: "she/her"  
-  bio              : #"Assistant Professor"
+  bio              : "Assistant Professor"
   employer         : "Nanjing University"
-  location         : "Nanjing 210093, China"
+  location         : #"Nanjing 210093, China"
   uri              : # URL
   email            : "hwh@nju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0001-6418-2251"
   semantic         : # URL
