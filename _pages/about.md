@@ -53,8 +53,8 @@ Adhoc Referee Service:
 - *Journal of the Operations Research Society of China*
 - *Applied Mathematics-A Journal of Chinese Universities*
 - *Communications in Statistics - Theory and Methods*
-- 《运筹学学报》
-- 《系统管理学报》
+- 《运筹学学报》(a Chinese academic journal)
+- 《系统管理学报》(a Chinese academic journal)
 
 Courses Taught: 
 ======
