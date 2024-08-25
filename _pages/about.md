@@ -24,14 +24,14 @@ Employment & Education
 
 - 2017/09--2019/08: **Joint-Ph.D. in Economics**, Department of Economics, **University of Kansas**, Advisor: Prof. [**Zongwu Cai**](https://zongwucai.github.io)
 
-Research Interests: 
+Research Interests
 ======
 
 - Methods: Probability, Statistics, Simulation, Optimization
   
 - Contextual Areas: Financial Engineering, Risk Management, Operations Management, Econometrics, Machine Learning
 
-Selected Papers: 
+Selected Papers
 ======
 
 - Caihua Chen, Weihuan Huang, Peter W. Glynn, and Dongxuan Zhu (2024). Adaptive Sampling Strategy for Stochastic Composite Optimization, preprint. 
@@ -46,7 +46,7 @@ Selected Papers:
 
 - Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010), ***Mathematical Control and Related Fields*** 9(1): 175--190.
 
-Awards and Honors: 
+Awards & Honors
 ======
 
 - 2022 Best Paper Award (First Prize) for Young Scholars, *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
@@ -55,7 +55,7 @@ Awards and Honors:
   
 - 2024 Youth May Fourth Medal (Collective), *Nanjing University*
 
-Adhoc Referee Service: 
+Adhoc Referee Service
 ======
 
 - *Journal of Econometrics*
@@ -72,14 +72,14 @@ Adhoc Referee Service:
   
 - 《系统管理学报》(a Chinese academic journal)
 
-Courses Taught: 
+Courses Taught
 ======
 
 - *Principles of Economics*, Fall 2023, Spring 2024, Fall 2024, at Nanjing University
   
 - *Advanced Functional Analysis*, Fall 2019, at Shandong University
 
-Academic Grants: 
+Academic Grants
 ======
 - 2024/01--2026/12: *Young-Scientists Fund Program* of NSFC (#12301601), **Principal Investigator (PI)**
   
