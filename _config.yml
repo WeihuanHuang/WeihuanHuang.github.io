@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Dr. Weihuan Huang"
-  pronouns         : "(黄伟桓)"  
+  pronouns         : #"(黄伟桓)"  
   bio              : " "
   employer         : #"Nanjing University"
   location         : #"Nanjing 210093, China"
