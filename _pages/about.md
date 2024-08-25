@@ -60,7 +60,7 @@ Adhoc Referee Service
 
 - *Journal of Econometrics*
   
-- *ACM Transactions on Modeling and Computer Simulation* (TOMACS)
+- *ACM Transactions on Modeling and Computer Simulation*
   
 - *Journal of the Operations Research Society of China*
   
