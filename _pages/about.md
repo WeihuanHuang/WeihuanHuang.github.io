@@ -40,7 +40,7 @@ Selected Papers:
 
 - Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). Extension of the Strong Law of Large Numbers for Capacities, ***Mathematical Control and Related Fields*** 9(1): 175--190.
 
-Ad Hoc Referee Service: 
+Adhoc Referee Service: 
 ======
 - *Journal of Econometrics*
 - *ACM Transactions on Modeling and Computer Simulation* (TOMACS)
