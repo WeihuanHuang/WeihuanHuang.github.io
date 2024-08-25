@@ -43,7 +43,7 @@ Selected Papers:
 Awards and Honors: 
 ======
 - 2022 Best Paper Award (First Prize) for Young Scholars, *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
-- 2020 Super Postdoc, *Fudan University*
+- 2020 Fudan Super Postdoc, *Fudan University*
 - 2024 Youth May Fourth Medal (Collective), *Nanjing University*
 
 Adhoc Referee Service: 
