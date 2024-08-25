@@ -1,11 +1,3 @@
-#---
-#permalink: /
-#title: "Website"
-#author_profile: Ture
-#redirect_from: 
-#  - /about/
-#  - /about.html
-#---
 
 #Biography
 #======
