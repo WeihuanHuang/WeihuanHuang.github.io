@@ -36,9 +36,9 @@ Selected Papers:
 
 - Weihuan Huang, Chenghu Ma, and Yuhong Xu (2023). Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium, submitted. 
 
-- Weihuan Huang, N. Lin, and L. Jeff Hong (2024). Monte Carlo Estimation of CoVaR, ***Operations Research***, forthcoming, 1--21.
+- Weihuan Huang, N. Lin, and L. Jeff Hong (2024). [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211), ***Operations Research***, forthcoming, 1--21.
 
-- Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). Extension of the Strong Law of Large Numbers for Capacities, ***Mathematical Control and Related Fields*** 9(1): 175--190.
+- Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010), ***Mathematical Control and Related Fields*** 9(1): 175--190.
 
 Adhoc Referee Service: 
 ======
