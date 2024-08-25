@@ -13,9 +13,13 @@ Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Stat
 
 Education & Employment
 ======
-2022/08 -- now 
-<span style="color: red;">Assistant Professor,</span>
-Nanjing University, School of Management & Engineering 
+2022/08 -- now &nbsp; &nbsp; <span style="color: red;">Assistant Professor,</span> &nbsp; &nbsp; School of Management & Engineering, Nanjing University
+
+2020/08 -- 2022/07 &nbsp; &nbsp; <span style="color: red;">Postdoc in Statistics,</span> &nbsp; &nbsp; School of Data Science, Fudan University
+
+2015/09 -- 2020/06 &nbsp; &nbsp; <span style="color: red;">Ph.D. in Mathematics,</span> &nbsp; &nbsp; Institute for Financial Studies, Shandong University
+
+2017/09 -- 2019/08 &nbsp; &nbsp; <span style="color: red;">Joint-Ph.D. in Economics,</span> &nbsp; &nbsp; Department of Economics, University of Kansas
 
 Site-wide configuration
 ------
