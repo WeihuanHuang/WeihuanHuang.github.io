@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Dr. Weihuan Huang"
   pronouns         : "He"  
-  bio              : "Asistant Professor at Nanjing University"
-  employer         : #"Nanjing University"
-  location         : #"Nanjing 210093, China"
+  bio              : "Asistant Professor"
+  employer         : "Nanjing University"
+  location         : "Nanjing 210093, China"
   URL              : "sme.nju.edu.cn/hwh"
   email            : "hwh@nju.edu.cn" 
 
