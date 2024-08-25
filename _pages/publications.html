@@ -1,36 +1,17 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+Research Interests: 
+------
+Probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning.
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+Selected Papers: 
+------
+- Caihua Chen, Weihuan Huang, Peter W. Glynn, and Dongxuan Zhu (2024). Adaptive Sampling Strategy for Stochastic Composite Optimization, preprint. 
 
-{% include base_path %}
+- Weihuan Huang (2024). Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method, submitted. 
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+- L. Jeff Hong, Weihuan Huang, Jiheng Zhang, and Xiaowei Zhang (2023). Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules, submitted. 
 
+- Weihuan Huang, Chenghu Ma, and Yuhong Xu (2023). Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium, submitted. 
 
+- Weihuan Huang, N. Lin, and L. Jeff Hong (2024). Monte Carlo Estimation of CoVaR, ***Operations Research***, forthcoming, 1--21.
 
+- Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). Extension of the Strong Law of Large Numbers for Capacities, ***Mathematical Control and Related Fields*** 9(1): 175--190. 
