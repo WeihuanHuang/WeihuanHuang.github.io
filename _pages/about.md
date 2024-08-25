@@ -34,7 +34,7 @@ Research Interests
 Selected Papers
 ======
 
-- Caihua Chen, Weihuan Huang, Peter W. Glynn, and Dongxuan Zhu (2024). Adaptive Sampling Strategy for Stochastic Composite Optimization, preprint. 
+- Caihua Chen, Peter W. Glynn, Weihuan Huang, and Dongxuan Zhu (2024). Adaptive Sampling Strategy for Stochastic Composite Optimization, preprint. 
 
 - Weihuan Huang (2024). Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method, submitted. 
 
