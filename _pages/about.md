@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<br> 
 
 Employment
 ======
