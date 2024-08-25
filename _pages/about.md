@@ -11,14 +11,12 @@ Biography
 ======
 Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University. His research interests encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. His work has been published in several prestigious academic journals, including the UTD journal Operations Research. He is the PI of a young-scientists fund of NSFC and participates in seven NSFC grants, two of which are major programs.
 
-Getting started
+Education & Employment
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2022/08 -- now      Assistant Professor, Nanjing University
+2020/08 -- 2022/07  Postdoc, Fudan University, Mentor: Prof. L. Jeff Hong
+2015/09 -- 2020/06  Ph.D. in Maths, Shandong University, Supervisor: Prof. Zengjing Chen
+2017/09 -- 2019/08  Joint-Ph.D. in Economics, University of Kansas, Advisor: Prof. Zongwu Cai
 
 Site-wide configuration
 ------
