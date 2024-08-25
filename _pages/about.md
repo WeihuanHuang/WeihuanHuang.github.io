@@ -34,17 +34,17 @@ Research Interests
 Selected Papers
 ======
 
-- Caihua Chen, Peter W. Glynn, Weihuan Huang, and Dongxuan Zhu (2024). Adaptive Sampling Strategy for Stochastic Composite Optimization, preprint. 
+- Caihua Chen, Peter W. Glynn, Weihuan Huang, and Dongxuan Zhu (2024) Adaptive Sampling Strategy for Stochastic Composite Optimization. Preprint. 
 
-- Weihuan Huang (2024). Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method, submitted. 
+- Weihuan Huang (2024) Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method. Submitted. 
 
-- L. Jeff Hong, Weihuan Huang, Jiheng Zhang, and Xiaowei Zhang (2023). Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules, submitted. 
+- L. Jeff Hong, Weihuan Huang, Jiheng Zhang, and Xiaowei Zhang (2023) Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules. Submitted. 
 
-- Weihuan Huang, Chenghu Ma, and Yuhong Xu (2023). Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium, submitted. 
+- Weihuan Huang, Chenghu Ma, and Yuhong Xu (2023) Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium. Submitted. 
 
-- Weihuan Huang, N. Lin, and L. Jeff Hong (2024). [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211), ***Operations Research***, forthcoming, 1--21.
+- Weihuan Huang, N. Lin, and L. Jeff Hong (2024) [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211). ***Operations Research***, forthcoming, 1--21.
 
-- Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010), ***Mathematical Control and Related Fields*** 9(1): 175--190.
+- Zengjing Chen, Weihuan Huang, and Panyu Wu (2019) [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010). ***Mathematical Control and Related Fields*** 9(1): 175--190.
 
 Awards & Honors
 ======
