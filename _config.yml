@@ -14,7 +14,7 @@ name                     : &name "Weihuan Huang (黄伟桓)"
 description              : &description "personal description"
 url                      : https://WeihuanHuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://WeihuanHuang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : #"Dr. Weihuan Huang"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : " "
   employer         : #"Nanjing University"
   location         : #"Nanjing 210093, China"
-  uri              : # URL
+  中文主页          : "sme.nju.edu.cn/hwh"
   email            : "hwh@nju.edu.cn" 
 
   # Academic websites
