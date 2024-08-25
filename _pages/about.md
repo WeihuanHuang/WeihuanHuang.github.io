@@ -63,11 +63,11 @@ Courses Taught:
 
 Academic Grants: 
 ======
-- 2024/01/01--2026/12/31: *Young-Scientists Fund Program* of NSFC (#12301601), **PI**
-- 2024/01/01--2028/12/31: *Major Program* of NSFC (#72394364), Participate
-- 2024/01/01–-2027/12/31: *General Program* of NSFC (#72371125), Participate
-- 2022/01/01–-2025/12/31: *International Cooperation and Exchange Program* of NSFC-RGC (#7211101019), Participate
-- 2021/01/01–-2025/12/31: *Major Program* of NSFC (#72091211), Participate
-- 2019/01/01–-2022/12/31: *General Program* of NSFC (#11871050), Participate
-- 2018/01/01-–2020/12/31: *Young-Scientists Fund Program* of NSFC (#11701331), Participate
-- 2017/01/01-–2019/12/31: *Young-Scientists Fund Program* of NSFC (#11601280), Participate
+- 2024/01--2026/12: *Young-Scientists Fund Program* of NSFC (#12301601), **PI**
+- 2024/01--2028/12: *Major Program* of NSFC (#72394364), Participate
+- 2024/01–-2027/12: *General Program* of NSFC (#72371125), Participate
+- 2022/01–-2025/12: *International Cooperation and Exchange Program* of NSFC-RGC (#7211101019), Participate
+- 2021/01–-2025/12: *Major Program* of NSFC (#72091211), Participate
+- 2019/01–-2022/12: *General Program* of NSFC (#11871050), Participate
+- 2018/01-–2020/12: *Young-Scientists Fund Program* of NSFC (#11701331), Participate
+- 2017/01-–2019/12: *Young-Scientists Fund Program* of NSFC (#11601280), Participate
