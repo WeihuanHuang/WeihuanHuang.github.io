@@ -22,9 +22,9 @@ Education
 ======
 - 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. [**L. Jeff Hong**](https://jeffhongliu.github.io)
 
-- 2015/09--2020/06: **Ph.D. in Mathematics**, Institute for Financial Studies, **Shandong University**, Advisor: Prof. **Zengjing Chen**
+- 2015/09--2020/06: **Ph.D. in Mathematics**, Institute for Financial Studies, **Shandong University**, Advisor: Prof. [**Zengjing Chen**](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
 
-- 2017/09--2019/08: **Joint-Ph.D. in Economics**, Department of Economics, **University of Kansas**, Advisor: Prof. **Zongwu Cai**
+- 2017/09--2019/08: **Joint-Ph.D. in Economics**, Department of Economics, **University of Kansas**, Advisor: Prof. [**Zongwu Cai**](https://zongwucai.github.io)
 
 Selected Papers: 
 ======
