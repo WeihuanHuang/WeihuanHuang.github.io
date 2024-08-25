@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Weihuan Huang"
-  pronouns         : "Ph.D in Maths"  
+  pronouns         : "Ph.D in Maths, Postdoc in Statistics"  
   bio              : "Asistant Professor"
-  location         : "School of Management & Engineering"
+  location         : #"School of Management & Engineering"
   employer         : "Nanjing University"
   URL              : "sme.nju.edu.cn/hwh"
   email            : "hwh@nju.edu.cn" 
