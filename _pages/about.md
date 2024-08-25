@@ -40,6 +40,12 @@ Selected Papers:
 
 - Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010), ***Mathematical Control and Related Fields*** 9(1): 175--190.
 
+Awards and Honors: 
+======
+- 2022 Best Paper Award (First Prize) for Young Scholars, *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
+- 2020 Super Postdoc, *Fudan University*
+- 2024 Youth May Fourth Medal (Collective), *Nanjing University*
+
 Adhoc Referee Service: 
 ======
 - *Journal of Econometrics*
