@@ -38,4 +38,19 @@ Selected Papers:
 
 - Weihuan Huang, N. Lin, and L. Jeff Hong (2024). Monte Carlo Estimation of CoVaR, ***Operations Research***, forthcoming, 1--21.
 
-- Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). Extension of the Strong Law of Large Numbers for Capacities, ***Mathematical Control and Related Fields*** 9(1): 175--190. 
+- Zengjing Chen, Weihuan Huang, and Panyu Wu (2019). Extension of the Strong Law of Large Numbers for Capacities, ***Mathematical Control and Related Fields*** 9(1): 175--190.
+
+Ad Hoc Referee Service: 
+======
+- *Journal of Econometrics*
+- *ACM Transactions on Modeling and Computer Simulation* (TOMACS)
+- *Journal of the Operations Research Society of China*
+- *Applied Mathematics-A Journal of Chinese Universities*
+- *Communications in Statistics - Theory and Methods*
+- 《运筹学学报》
+- 《系统管理学报》
+
+Courses Taught: 
+======
+*Principle of Economics*, Fall 2023, Spring 2024, Fall 2024, at Nanjing University
+*Advance Functional Analysis*, Fall 2019, at Shandong University
