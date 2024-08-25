@@ -20,7 +20,7 @@ Employment
 
 Education
 ======
-- 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. **L. Jeff Hong**
+- 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. [**L. Jeff Hong**](https://jeffhongliu.github.io)
 
 - 2015/09--2020/06: **Ph.D. in Mathematics**, Institute for Financial Studies, **Shandong University**, Advisor: Prof. **Zengjing Chen**
 
