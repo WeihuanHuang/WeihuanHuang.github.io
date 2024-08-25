@@ -24,7 +24,8 @@ Education
 
 Research Interests: 
 ======
-- Probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning.
+- Probability and Statistics
+- Operations Research and Management Science
 
 Selected Papers: 
 ======
