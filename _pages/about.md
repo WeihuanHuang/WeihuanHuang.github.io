@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Assistant Professor, 
 
 School of Management & Engineering,
