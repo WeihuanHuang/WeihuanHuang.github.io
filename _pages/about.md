@@ -27,9 +27,9 @@ Employment & Education
 Research Interests
 ======
 
-- Methods: Probability, Statistics, Simulation, Optimization
+- *Methods*: Probability, Statistics, Simulation, Optimization
   
-- Contextual Areas: Financial Engineering, Risk Management, Operations Management, Econometrics, Machine Learning
+- *Contextual and Crosscutting Areas*: Financial Engineering, Risk Management, Operations Management, Econometrics, Machine Learning
 
 Selected Papers
 ======
