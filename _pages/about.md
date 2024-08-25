@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Welcome to Weihuang Huang's website!"
+author_profile: Ture
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 #Biography
 #======
