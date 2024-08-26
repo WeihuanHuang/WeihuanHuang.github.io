@@ -20,7 +20,7 @@ Contact Information
 
 - Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
 
-- Chinese Website: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
+- Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
 
 Employment & Education
 ======
