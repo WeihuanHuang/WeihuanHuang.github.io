@@ -18,7 +18,7 @@ Contact Information
 
 - Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
 
-- Address: **Room 505, Xiexin Hall**, Gulou Campus, Nanjing University, 22 Hankou Road, Gulou District, Nanjing 210093, China
+- Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Gulou District, Nanjing 210093, China
 
 - Chinese Website: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
 
