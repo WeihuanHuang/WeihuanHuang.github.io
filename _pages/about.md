@@ -13,10 +13,17 @@ redirect_from:
 
 - Weihuan Huang's work has been **published** in several prestigious academic journals, including the UTD journal ***Operations Research***. He is the **PI** of a young-scientists fund of NSFC and participates in seven NSFC grants, two of which are major programs.
 
+Contact Information
+======
+
+- Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
+
+- Chinese Website: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
+
 Employment & Education
 ======
 
-- 2022/08--now: **Assistant Professor**, School of Management & Engineering, **Nanjing University**, Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn), Chinese Website: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
+- 2022/08--now: **Assistant Professor**, School of Management & Engineering, **Nanjing University**
 
 - 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. [**L. Jeff Hong**](https://jeffhongliu.github.io)
 
