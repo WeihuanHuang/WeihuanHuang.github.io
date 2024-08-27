@@ -11,7 +11,7 @@ redirect_from:
 
 - Weihuan Huang's **research interests** encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. 
 
-- Weihuan Huang's work has been **published** in several prestigious academic journals, including the UTD journal ***Operations Research***. He is the **PI** of a young scientists fund program of NSFC and participates in seven NSFC grants, two of which are major programs.
+- Weihuan Huang's work has been **published** in several prestigious academic journals, including the UTD journal ***Operations Research***. He is the **PI** of a young scientists fund program of NSFC and participates in seven NSFC grants, including two major programs.
 
 Contact Information
 ======
