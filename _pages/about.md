@@ -82,9 +82,9 @@ Adhoc Referee Service
 Courses Taught
 ======
 
-- *Principles of Economics*, Fall 2023, Spring 2024, Fall 2024, at Nanjing University
+- *Principles of Economics*, Fall 2023, Spring 2024, Fall 2024, for undergraduate students at Nanjing University
   
-- *Advanced Functional Analysis*, Fall 2019, at Shandong University
+- *Advanced Functional Analysis*, Fall 2019, for graduate students at Shandong University
 
 Academic Grants
 ======
