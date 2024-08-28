@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 20px;">**Weihuan Huang (黄伟桓)**</span>
-
 Assistant Professor<br>
 Department of Financial Technology and Engineering<br>
 [School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
