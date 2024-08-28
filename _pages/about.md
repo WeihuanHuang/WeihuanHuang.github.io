@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Weihuan Huang, Ph.D. (黄伟桓)**
+**Weihuan Huang, Ph.D.**
 <br>
 
 Assistant Professor<br>
