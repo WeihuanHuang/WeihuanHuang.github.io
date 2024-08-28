@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Weihuan Huang, Ph.D.**
+**Weihuan Huang, Ph.D.**<br>
+(The name is pronounced as "Wei-huan Hwang/Hwahng" in English.)
 
 Assistant Professor<br>
 Department of Financial Technology and Engineering<br>
