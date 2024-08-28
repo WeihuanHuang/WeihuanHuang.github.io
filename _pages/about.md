@@ -9,23 +9,18 @@ redirect_from:
 
 **Weihuan Huang (黄伟桓)**
 
-Assistant Professor
+Assistant Professor, Department of Financial Technology and Engineering, School of Management & Engineering, Nanjing University
+
+Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
+
+Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
+
+Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
 
 Biography
 ======
 
-- **Weihuan Huang (黄伟桓)**, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University. 
-
-- Weihuan Huang's **research interests** encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. 
-
-- Weihuan Huang's work has been **published** in several prestigious academic journals, including the UTD journal ***Operations Research***. He is the **PI** of a young scientists fund program of NSFC and participates in seven NSFC grants, including two major programs.
-
-Contact Information
-======
-
-- Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn), Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
-
-- Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
+**Weihuan Huang (黄伟桓)**, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University. His **research interests** encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. His work has been **published** in several prestigious academic journals, including the UTD journal ***Operations Research***. He is the **PI** of a young scientists fund program of NSFC and participates in seven NSFC grants, two of which are major programs.
 
 Employment & Education
 ======
