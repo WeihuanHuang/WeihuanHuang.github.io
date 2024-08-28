@@ -9,7 +9,10 @@ redirect_from:
 
 **Weihuan Huang (黄伟桓)**
 
-Assistant Professor, Department of Financial Technology and Engineering, School of Management & Engineering, Nanjing University
+Assistant Professor<br>
+Department of Financial Technology and Engineering<br>
+School of Management & Engineering<br>
+Nanjing University
 
 Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
 
