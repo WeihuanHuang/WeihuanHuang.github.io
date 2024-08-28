@@ -15,29 +15,24 @@ redirect_from:
 [**School of Management & Engineering**](https://sme.nju.edu.cn/main.htm)<br>
 [**Nanjing University**](https://www.nju.edu.cn)
 
-Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)<br>
-Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)<br>
-Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
+* Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)<br>
+* Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)<br>
+* Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
 
 Biography
 ======
 
-- Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University.
-
-- His **research interests** encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning.
-
-- His work has been **published** in several prestigious academic journals, including the UTD journal ***Operations Research***. He is the **PI** of a young scientists fund program of NSFC and participates in seven NSFC grants, two of which are major programs.
+* Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University.
+* His **research interests** encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning.
+* His work has been **published** in several prestigious academic journals, including the UTD journal ***Operations Research***. He is the **PI** of a young scientists fund program of NSFC and participates in seven NSFC grants, two of which are major programs.
 
 Employment & Education
 ======
 
-- 2022/08--now: **Assistant Professor**, School of Management & Engineering, **Nanjing University**
-
-- 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. [**L. Jeff Hong**](https://jeffhongliu.github.io)
-
-- 2017/09--2019/08: **Joint-Ph.D. in Economics** (Econometrics), Department of Economics, **University of Kansas**, Advisor: Prof. [**Zongwu Cai**](https://zongwucai.github.io)
-
-- 2015/09--2020/06: **Ph.D. in Mathematics** (Financial Mathematics and Engineering), Institute for Financial Studies, **Shandong University**, Advisor: Prof. [**Zengjing Chen**](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
+* 2022/08--now: **Assistant Professor**, School of Management & Engineering, **Nanjing University**
+* 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. [**L. Jeff Hong**](https://jeffhongliu.github.io)
+* 2017/09--2019/08: **Joint-Ph.D. in Economics** (Econometrics), Department of Economics, **University of Kansas**, Advisor: Prof. [**Zongwu Cai**](https://zongwucai.github.io)
+* 2015/09--2020/06: **Ph.D. in Mathematics** (Financial Mathematics and Engineering), Institute for Financial Studies, **Shandong University**, Advisor: Prof. [**Zengjing Chen**](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
 
 Research Interests
 ======
