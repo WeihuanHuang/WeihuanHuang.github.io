@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Weihuan Huang, Ph.D.**<br>
-(The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English, and /Huáng, Wěi Huán/ in Chinese.)
+(The name is spelled in Chinese pinyin, and is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
 Assistant Professor<br>
 Department of Financial Technology and Engineering<br>
