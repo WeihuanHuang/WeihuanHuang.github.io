@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Weihuan Huang, Ph.D.**<br>
-(The name is pronounced as "Wei-huan Hwang/Wong" in English.)
+(The name is pronounced as "Wei-huan Hwang/Wong/hwɑŋ" in English.)
 
 **Assistant Professor**<br>
 **Department of Financial Technology and Engineering**<br>
