@@ -9,6 +9,7 @@ redirect_from:
 
 **Weihuan Huang, Ph.D.**<br>
 (The name is pronounced as "Wei-huan hwɑŋ" in English.)
+#(The name is pronounced as "Wei-huan hwɑŋ" in English. The famile name "Huang" (黄), also be romanized as "Hwang" or "Wong", is one of the most common Chinese surnames. The character of Huang means "yellow" in Chinese, representing many significant symbols in the historical and cultural origins of China, such as Emperor Huang Di, Huang River, Huang Mountain, Huang Tu Plateau. )
 
 **Assistant Professor**<br>
 **Department of Financial Technology and Engineering**<br>
