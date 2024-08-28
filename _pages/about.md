@@ -15,9 +15,9 @@ Department of Financial Technology and Engineering<br>
 [School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
 [Nanjing University](https://www.nju.edu.cn)
 
-**Email**: [hwh@nju.edu.cn](mailto:hwh@nju.edu.cn)<br>
-**Personal Website in Chinese**: [https://sme.nju.edu.cn/hwh](https://sme.nju.edu.cn/hwh/main.htm)<br>
-**Office Address**: [Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https://www.google.com/maps/place/32°03'18.8%22N+118°46'40.1%22E/@32.0551419,118.7779134,18.78z/data=!4m4!3m3!8m2!3d32.055231!4d118.777816?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D), 22 Hankou Road, Nanjing 210093, Jiangsu Province, China
+Email: [hwh@nju.edu.cn](mailto:hwh@nju.edu.cn)<br>
+Personal Website in Chinese: [https://sme.nju.edu.cn/hwh](https://sme.nju.edu.cn/hwh/main.htm)<br>
+Office Address: [Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https://www.google.com/maps/place/32°03'18.8%22N+118°46'40.1%22E/@32.0551419,118.7779134,18.78z/data=!4m4!3m3!8m2!3d32.055231!4d118.777816?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D), 22 Hankou Road, Nanjing 210093, Jiangsu Province, China
 
 Biography
 ======
@@ -30,9 +30,9 @@ Employment & Education
 ======
 
 * 2022/08--now: **Assistant Professor**, School of Management & Engineering, **Nanjing University**
-* 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. [**L. Jeff Hong**](https://jeffhongliu.github.io)
-* 2017/09--2019/08: **Joint-Ph.D. in Economics** (Econometrics), Department of Economics, **University of Kansas**, Advisor: Prof. [**Zongwu Cai**](https://zongwucai.github.io)
-* 2015/09--2020/06: **Ph.D. in Mathematics** (Financial Mathematics and Engineering), Institute for Financial Studies, **Shandong University**, Advisor: Prof. [**Zengjing Chen**](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
+* 2020/08--2022/07: **Postdoc in Statistics**, School of Data Science, **Fudan University**, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
+* 2017/09--2019/08: **Joint-Ph.D. in Economics** (Econometrics), Department of Economics, **University of Kansas**, Advisor: Prof. [Zongwu Cai](https://zongwucai.github.io)
+* 2015/09--2020/06: **Ph.D. in Mathematics** (Financial Mathematics and Engineering), Institute for Financial Studies, **Shandong University**, Advisor: Prof. [Zengjing Chen](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
 
 Research Interests
 ======
