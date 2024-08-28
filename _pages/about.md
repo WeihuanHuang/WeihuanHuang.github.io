@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Biography"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 - **Weihuan Huang (黄伟桓)**, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is an Assistant Professor at Nanjing University. 
 
