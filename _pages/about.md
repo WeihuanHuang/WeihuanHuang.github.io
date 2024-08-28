@@ -10,10 +10,10 @@ redirect_from:
 **Weihuan Huang, Ph.D.**<br>
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
-**Assistant Professor**<br>
-**Department of Financial Technology and Engineering**<br>
-[**School of Management & Engineering**](https://sme.nju.edu.cn/main.htm)<br>
-[**Nanjing University**](https://www.nju.edu.cn)
+Assistant Professor<br>
+Department of Financial Technology and Engineering<br>
+[School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
+[Nanjing University](https://www.nju.edu.cn)
 
 **Email**: [hwh@nju.edu.cn](mailto:hwh@nju.edu.cn)<br>
 **Personal Website in Chinese**: [https://sme.nju.edu.cn/hwh](https://sme.nju.edu.cn/hwh/main.htm)<br>
