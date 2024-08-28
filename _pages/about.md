@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 18px;">**Weihuan Huang (黄伟桓)**</span>
+**Weihuan Huang (黄伟桓)**
 
 Assistant Professor<br>
 Department of Financial Technology and Engineering<br>
 School of Management & Engineering<br>
 Nanjing University
 
-Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
+- Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
 
-Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
+- Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
 
-Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
+- Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
 
 Biography
 ======
