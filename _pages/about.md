@@ -15,11 +15,9 @@ redirect_from:
 [**School of Management & Engineering**](https://sme.nju.edu.cn/main.htm)<br>
 [**Nanjing University**](https://www.nju.edu.cn)
 
-- Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
-
-- Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)
-
-- Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
+Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)<br>
+Personal Website in Chinese: [**https://sme.nju.edu.cn/hwh**](https://sme.nju.edu.cn/hwh/main.htm)<br>
+Office Address: **Room 505, Xiexin Hall**, Nanjing University (Gulou Campus), 22 Hankou Road, Nanjing 210093, China
 
 Biography
 ======
