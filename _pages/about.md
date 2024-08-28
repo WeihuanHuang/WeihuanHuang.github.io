@@ -11,7 +11,7 @@ redirect_from:
 
 Assistant Professor<br>
 Department of Financial Technology and Engineering<br>
-School of Management & Engineering<br>
+[School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
 Nanjing University
 
 - Email: [**hwh@nju.edu.cn**](mailto:hwh@nju.edu.cn)
