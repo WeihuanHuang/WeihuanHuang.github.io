@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Weihuan Huang (黄伟桓)**
+<span style="font-size: 18px;">**Weihuan Huang (黄伟桓)**</span>
 
 Assistant Professor<br>
 Department of Financial Technology and Engineering<br>
