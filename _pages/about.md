@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 **Weihuan Huang, Ph.D.**<br>
+--
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
 Assistant Professor<br>
