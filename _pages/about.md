@@ -31,12 +31,15 @@ Employment & Education
 
 * **Nanjing University**, School of Management & Engineering
   - 2022/08--now: Assistant Professor
+  <br>
 * **Fudan University**, School of Data Science
   - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
-* **The University of Kansas**, Department of Economics
-  - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: Prof. [Zongwu Cai](https://zongwucai.github.io)
+  <br>
 * **Shandong University**, Institute for Financial Studies
   - 2015/09--2020/06: Ph.D. in Mathematics, Advisor: Prof. [Zengjing Chen](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
+  <br>
+* **The University of Kansas**, Department of Economics
+  - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: Prof. [Zongwu Cai](https://zongwucai.github.io)
 
 Research Interests
 ======
