@@ -11,7 +11,7 @@ redirect_from:
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
 Assistant Professor<br>
-Department of Financial Technology and Engineering<br>
+[Department of Financial Technology & Engineering](https://sme.nju.edu.cn/jrkjygcx/list.htm)<br>
 [School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
 [Nanjing University](https://www.nju.edu.cn)
 
