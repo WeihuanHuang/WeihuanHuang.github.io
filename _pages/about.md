@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="font-size: 24px; line-height: 1; margin-bottom: 0;">Weihuan Huang, Ph.D.</h1>
+<h1 style="font-size: 26px; line-height: 1; margin-bottom: 0;">Weihuan Huang, Ph.D.</h1>
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
 Assistant Professor<br>
