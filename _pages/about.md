@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Weihuan Huang, Ph.D.**<br>
+<h1 style="font-size: 20px;">Weihuan Huang, Ph.D.</h1><br>
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
 Assistant Professor<br>
