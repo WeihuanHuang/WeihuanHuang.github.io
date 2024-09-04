@@ -30,13 +30,13 @@ Employment & Education
 ======
 
 * **Nanjing University**, School of Management & Engineering
-  - 2022/08--present: Assistant Professor
+  - 2022/08 -- present: Assistant Professor
 * **Fudan University**, School of Data Science
-  - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
+  - 2020/08 -- 2022/07: Postdoc in Statistics, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
 * **Shandong University**, Institute for Financial Studies
-  - 2015/09--2020/06: Ph.D. in Mathematics, Advisor: Prof. [Zengjing Chen](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
+  - 2015/09 -- 2020/06: Ph.D. in Mathematics, Advisor: Prof. [Zengjing Chen](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
 * **The University of Kansas**, Department of Economics
-  - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: Prof. [Zongwu Cai](https://zongwucai.github.io)
+  - 2017/09 -- 2019/08: Joint-Ph.D. in Economics, Advisor: Prof. [Zongwu Cai](https://zongwucai.github.io)
 
 Research Interests
 ======
@@ -84,12 +84,12 @@ Academic Grants
 ======
 
 * Principal Investigator (PI)
-  - 2024/01--2026/12: *Young Scientists Fund Program* of NSFC (#12301601)
+  - 2024/01 -- 2026/12: *Young Scientists Fund Program* of NSFC (#12301601)
 * Participant
-  - 2024/01--2028/12: *Major Program* of NSFC (#72394364)
-  - 2024/01--2027/12: *General Program* of NSFC (#72371125)
-  - 2022/01--2025/12: *International Cooperation and Exchange Program* of NSFC-RGC (#72161160340)
-  - 2021/01--2025/12: *Major Program* of NSFC (#72091211)
-  - 2019/01--2022/12: *General Program* of NSFC (#11871050)
-  - 2018/01--2020/12: *Young Scientists Fund Program* of NSFC (#11701331)
-  - 2017/01--2019/12: *Young Scientists Fund Program* of NSFC (#11601280)
+  - 2024/01 -- 2028/12: *Major Program* of NSFC (#72394364)
+  - 2024/01 -- 2027/12: *General Program* of NSFC (#72371125)
+  - 2022/01 -- 2025/12: *International Cooperation and Exchange Program* of NSFC-RGC (#72161160340)
+  - 2021/01 -- 2025/12: *Major Program* of NSFC (#72091211)
+  - 2019/01 -- 2022/12: *General Program* of NSFC (#11871050)
+  - 2018/01 -- 2020/12: *Young Scientists Fund Program* of NSFC (#11701331)
+  - 2017/01 -- 2019/12: *Young Scientists Fund Program* of NSFC (#11601280)
