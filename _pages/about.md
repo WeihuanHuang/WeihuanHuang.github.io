@@ -30,7 +30,7 @@ Employment & Education
 ======
 
 * **Nanjing University**, School of Management & Engineering
-  - 2022/08--now: Assistant Professor
+  - 2022/08--present: Assistant Professor
 * **Fudan University**, School of Data Science
   - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
 * **Shandong University**, Institute for Financial Studies
