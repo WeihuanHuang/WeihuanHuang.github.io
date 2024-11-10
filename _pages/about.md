@@ -84,7 +84,7 @@ Academic Grants
 ======
 
 * Principal Investigator (PI)
-  - 2024/01--2026/12: *Young Scientists Fund Program* of NSFC (#12301601)
+  - 2024/01--2026/12: *Young Scientists Fund Program* of National Natural Science Foundation of China (NSFC) (#12301601)
 * Participant
   - 2024/01--2028/12: *Major Program* of NSFC (#72394364)
   - 2024/01--2027/12: *General Program* of NSFC (#72371125)
@@ -93,4 +93,3 @@ Academic Grants
   - 2019/01--2022/12: *General Program* of NSFC (#11871050)
   - 2018/01--2020/12: *Young Scientists Fund Program* of NSFC (#11701331)
   - 2017/01--2019/12: *Young Scientists Fund Program* of NSFC (#11601280)
-(NSFC is the National Natural Science Foundation of China)
