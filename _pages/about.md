@@ -67,6 +67,7 @@ Adhoc Referee Service
 * *Journal of Econometrics*
 * *ACM Transactions on Modeling and Computer Simulation*
 * *Journal of the Operations Research Society of China*
+* *Asia-Pacific Journal of Operational Research*
 * *Applied Mathematics-A Journal of Chinese Universities*
 * *Communications in Statistics - Theory and Methods*
 * *Operations Research Transactions* (in Chinese)
