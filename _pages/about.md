@@ -10,7 +10,7 @@ redirect_from:
 <h1 style="font-size: 20px; line-height: 1; margin-bottom: 0;">Weihuan Huang, Ph.D.</h1>
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
-Assistant Professor<br>
+Tenure-track Assistant Professor<br>
 [Department of Financial Technology & Engineering](https://sme.nju.edu.cn/jrkjygcx/list.htm)<br>
 [School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
 [Nanjing University](https://www.nju.edu.cn)
@@ -30,7 +30,9 @@ Employment & Education
 ======
 
 * **Nanjing University**, School of Management & Engineering
-  - 2022/08--present: Assistant Professor
+  - 2025/03--present: Tenure-track Assistant Professor
+  - 2025/03--present: Research Professor
+  - 2022/08--2025/02: Research Assistant Professor
 * **Fudan University**, School of Data Science
   - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
 * **Shandong University**, Institute for Financial Studies
