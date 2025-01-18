@@ -30,7 +30,7 @@ Employment & Education
 ======
 
 * **Nanjing University**, School of Management & Engineering
-  - 2025/03--present: Tenure-track Assistant Professor (Research Professor)
+  - 2025/03--present: Tenure-track Assistant Professor & Research Professor
   - 2022/08--2025/02: Research Assistant Professor
 * **Fudan University**, School of Data Science
   - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
