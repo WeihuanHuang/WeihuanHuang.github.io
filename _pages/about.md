@@ -10,7 +10,7 @@ redirect_from:
 <h1 style="font-size: 20px; line-height: 1; margin-bottom: 0;">Weihuan Huang, Ph.D.</h1>
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
-Tenure-track Assistant Professor<br>
+Assistant Professor (Tenure-track)<br>
 [Department of Financial Technology & Engineering](https://sme.nju.edu.cn/jrkjygcx/list.htm)<br>
 [School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
 [Nanjing University](https://www.nju.edu.cn)
