@@ -95,5 +95,4 @@ Academic Grants
   - 2019/01--2022/12: *General Program* of NSFC (#11871050)
   - 2018/01--2020/12: *Young Scientists Fund Program* of NSFC (#11701331)
   - 2017/01--2019/12: *Young Scientists Fund Program* of NSFC (#11601280)
-
-<p style="line-height: 1;">(*Note*: NSFC = National Natural Science Foundation of China.)</p>
+<br>(*Note*: NSFC = National Natural Science Foundation of China.)
