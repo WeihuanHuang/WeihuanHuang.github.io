@@ -52,8 +52,8 @@ Selected Papers
 * <div style="text-align: justify;"><strong>Weihuan Huang</strong> (2023) Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method. Submitted. </div>
 * <div style="text-align: justify;">L. Jeff Hong, <strong>Weihuan Huang</strong>, Jiheng Zhang, and Xiaowei Zhang (2023) Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules. Submitted. </div>
 * <div style="text-align: justify;"><strong>Weihuan Huang</strong>, Chenghu Ma, and Yuhong Xu (2023) Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium. Submitted. </div>
-* <div style="text-align: justify;"><strong>Weihuan Huang</strong>, Nifei Lin, and L. Jeff Hong (2024) <a href="https://doi.org/10.1287/opre.2023.0211">Monte Carlo Estimation of CoVaR</a>. <strong><em>Operations Research</em></strong> 72(6): 2337--2357. </div>
-* <div style="text-align: justify;">Zengjing Chen, <strong>Weihuan Huang</strong>, and Panyu Wu (2019) <a href="https://doi.org/10.3934/mcrf.2019010">Extension of the Strong Law of Large Numbers for Capacities</a>. <strong><em>Mathematical Control and Related Fields</em></strong> 9(1): 175--190. </div>
+* <div style="text-align: justify;"><strong>Weihuan Huang</strong>, Nifei Lin, and L. Jeff Hong (2024) <a href="https://doi.org/10.1287/opre.2023.0211">Monte Carlo Estimation of CoVaR</a>. <strong><em>Operations Research</em></strong> 72(6): 2337&mdash;2357. </div>
+* <div style="text-align: justify;">Zengjing Chen, <strong>Weihuan Huang</strong>, and Panyu Wu (2019) <a href="https://doi.org/10.3934/mcrf.2019010">Extension of the Strong Law of Large Numbers for Capacities</a>. <strong><em>Mathematical Control and Related Fields</em></strong> 9(1): 175&mdash;190. </div>
 
 Awards & Honors
 ======
