@@ -10,7 +10,7 @@ redirect_from:
 <h1 style="font-size: 20px; line-height: 1; margin-bottom: 0;">Weihuan Huang, Ph.D.</h1>
 (The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
-Assistant Professor (Tenure-track)<br>
+Assistant Professor (Tenure-Track)<br>
 [Department of Financial Technology & Engineering](https://sme.nju.edu.cn/jrkjygcx/list.htm)<br>
 [School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
 [Nanjing University](https://www.nju.edu.cn)
@@ -22,7 +22,7 @@ Office Address: [Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https
 Biography
 ======
 
-* Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is a Tenure-track Assistant Professor (specially appointed as a Research Professor) at Nanjing University.
+* Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is a Tenure-Track Assistant Professor (specially appointed as a Research Professor) at Nanjing University.
 * His research interests encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning.
 * His work has been published in several prestigious academic journals, including the UTD journal *Operations Research*. He is the PI of a young scientists fund program of NSFC and participates in seven NSFC grants, two of which are major programs.
 
@@ -30,7 +30,7 @@ Employment & Education
 ======
 
 * **Nanjing University**, School of Management & Engineering
-  - 2025/03--present: Tenure-track Assistant Professor & Research Professor
+  - 2025/03--present: Tenure-Track Assistant Professor & Research Professor
   - 2022/08--2025/02: Research Assistant Professor
 * **Fudan University**, School of Data Science
   - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. [L. Jeff Hong](https://jeffhongliu.github.io)
@@ -96,4 +96,4 @@ Academic Grants
   - 2018/01--2020/12: *Young Scientists Fund Program* of NSFC (#11701331)
   - 2017/01--2019/12: *Young Scientists Fund Program* of NSFC (#11601280)
 
- *Note*: NSFC = National Natural Science Foundation of China.
+ (*Note*: NSFC = National Natural Science Foundation of China.)
