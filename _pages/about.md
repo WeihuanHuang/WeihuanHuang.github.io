@@ -84,10 +84,9 @@ Courses Taught
 
 Academic Grants
 ======
-(NSFC=National Natural Science Foundation of China)
-
+(NSFC = National Natural Science Foundation of China)
 * Principal Investigator (PI)
-  - 2024/01--2026/12: *Young Scientists Fund Program* of National Natural Science Foundation of China (NSFC) (#12301601)
+  - 2024/01--2026/12: *Young Scientists Fund Program* of NSFC (#12301601)
 * Participant
   - 2024/01--2028/12: *Major Program* of NSFC (#72394364)
   - 2024/01--2027/12: *General Program* of NSFC (#72371125)
