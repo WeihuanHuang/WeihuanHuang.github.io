@@ -56,12 +56,26 @@ Selected Papers
 * <span style="text-align: justify; display: block;">**Weihuan Huang**, Nifei Lin, and L. Jeff Hong (2024) [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211). ***Operations Research*** 72(6): 2337--2357.</span>
 * <span style="text-align: justify; display: block;">Zengjing Chen, **Weihuan Huang**, and Panyu Wu (2019) [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010). ***Mathematical Control and Related Fields*** 9(1): 175--190.</span>
 
+***
+
 Awards & Honors
 ======
 
 * 2024 Youth May Fourth Medal (Collective), *Nanjing University*
 * 2022 Best Paper Award (The First Prize) for Young Scholars, *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
 * 2020 Fudan Super Postdoc, *Fudan University*
+
+***
+
+Courses Taught
+======
+
+* *Principles of Economics* for undergraduate students at Nanjing University
+  - Fall 2023, Spring 2024, Fall 2024, Spring 2025
+* *Advanced Functional Analysis* for graduate students at Shandong University
+  - Fall 2019
+
+***
 
 Adhoc Referee Service
 ======
@@ -74,14 +88,6 @@ Adhoc Referee Service
 * *Communications in Statistics - Theory and Methods*
 * *Operations Research Transactions* (in Chinese)
 * *Journal of Systems & Management* (in Chinese)
-
-Courses Taught
-======
-
-* *Principles of Economics* for undergraduate students at Nanjing University
-  - Fall 2023, Spring 2024, Fall 2024, Spring 2025
-* *Advanced Functional Analysis* for graduate students at Shandong University
-  - Fall 2019
 
 Academic Grants
 ======
@@ -98,3 +104,5 @@ Academic Grants
   - 2017/01--2019/12: *Young Scientists Fund Program* of NSFC (#11601280)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Note*: NSFC = National Natural Science Foundation of China.)
+
+***
