@@ -23,7 +23,7 @@ Office Address: [Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https
 |-----------|
 | <span style="font-size: 18px; text-align: justify; display: block; margin: 12px;">Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is a Tenure-Track Assistant Professor (specially appointed as a Research Professor) at Nanjing University. His research interests encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. His work has been published in several prestigious academic journals, including the UTD-24 journal *Operations Research*. He is the PI of a young scientists fund program of NSFC and participates in seven NSFC grants, two of which are major programs.</span> |
 
----
+***
 
 Employment & Education
 ======
@@ -37,6 +37,8 @@ Employment & Education
   - 2015/09--2020/06: Ph.D. in Mathematics, Advisor: Prof. [Zengjing Chen](http://mathfinance.sdu.edu.cn/sz/yjyjs1/czj_js.htm)
 * **The University of Kansas**, Department of Economics
   - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: Prof. [Zongwu Cai](https://zongwucai.github.io)
+
+***
 
 Research Interests
 ======
