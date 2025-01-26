@@ -19,7 +19,7 @@ Email: [hwh@nju.edu.cn](mailto:hwh@nju.edu.cn)<br>
 Personal Website in Chinese: [https://sme.nju.edu.cn/hwh](https://sme.nju.edu.cn/hwh/main.htm)<br>
 Office Address: [Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https://www.google.com/maps/place/32°03'18.8%22N+118°46'40.1%22E/@32.0551419,118.7779134,18.78z/data=!4m4!3m3!8m2!3d32.055231!4d118.777816?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D), 22 Hankou Road, Nanjing 210093, Jiangsu Province, China)
 
-| <span style="font-size: 27px; margin: 10px;">Biography</span> |
+| <span style="font-size: 27px; margin: 8px;">Biography</span> |
 |-----------|
 | <span style="font-size: 18px; text-align: justify; display: block; margin: 12px;">Weihuan Huang, Ph.D. in Mathematics from Shandong University and Postdoc in Statistics from Fudan University, currently is a Tenure-Track Assistant Professor (specially appointed as a Research Professor) at Nanjing University. His research interests encompass probability, statistics, simulation, optimization, and their interfaces with financial engineering, risk management, operations management, econometrics, and machine learning. His work has been published in several prestigious academic journals, including the UTD-24 journal *Operations Research*. He is the PI of a young scientists fund program of NSFC and participates in seven NSFC grants, two of which are major programs.</span> |
 
