@@ -54,9 +54,11 @@ Selected Papers
 * <span style="text-align: justify; display: block;">L. Jeff Hong, **Weihuan Huang**, Jiheng Zhang, and Xiaowei Zhang (2023+) Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules. Submitted.</span>
 * <span style="text-align: justify; display: block;">**Weihuan Huang**, Chenghu Ma, and Yuhong Xu (2023+) Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium. Submitted.</span>
 * <span style="text-align: justify; display: block;">**Weihuan Huang**, Nifei Lin, and L. Jeff Hong (2024) [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211). ***Operations Research*** 72(6): 2337--2357.</span>
-  - <span style="text-align: justify; display: block;">*Areas*: Financial Engineering, Risk Management, Stochastic Simulation; *Keywords*: Systemic Risk, Monte Carlo Simulation, Batching, delta-gamma Approximation, Importance Sampling, statistical analysis.</span>
+  - <span style="text-align: justify; display: block;">*Areas*: Financial Engineering, Risk Management, Stochastic Simulation.</span>
+  - <span style="text-align: justify; display: block;">Keywords*: Systemic Risk, Monte Carlo Simulation, Batching, delta-gamma Approximation, Importance Sampling, statistical analysis.</span>
 * <span style="text-align: justify; display: block;">Zengjing Chen, **Weihuan Huang**, and Panyu Wu (2019) [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010). ***Mathematical Control and Related Fields*** 9(1): 175--190.</span>
-  - <span style="text-align: justify; display: block;">*Area*: Probability Theory; *Keywords*: Capacity, Law of Large Numbers, Exponential Independence, Upper Expectation.</span>
+  - <span style="text-align: justify; display: block;">*Area*: Probability Theory.</span>
+  - <span style="text-align: justify; display: block;">*Keywords*: Capacity, Law of Large Numbers, Exponential Independence, Upper Expectation.</span>
 
 ***
 
