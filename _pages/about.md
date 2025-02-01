@@ -39,7 +39,7 @@ Employment & Education
   - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: Prof. [Zongwu Cai](https://zongwucai.github.io)
 * **Visiting Scholar Experience**
   - Xiamen University: 2018/06/02--06/11; 2019/10/15--10/25
-  - Soochow University: 2018/06/15--07/15; 2019/08/14--08/28; 2020/01/07--01/15;  
+  - Soochow University: 2018/06/15--07/15; 2019/08/14--08/28; 2020/01/07--01/15
 
 ***
 
