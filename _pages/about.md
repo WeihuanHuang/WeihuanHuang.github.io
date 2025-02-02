@@ -70,12 +70,14 @@ Awards & Honors
 
 ***
 
-Courses Taught
+Teaching
 ======
 
-* *Principles of Economics* for undergraduate students at Nanjing University
+* Instructor: *Principles of Economics*
+  - for undergraduate students at Nanjing University
   - Fall 2023, Spring 2024, Fall 2024, Spring 2025
-* *Advanced Functional Analysis* for graduate students at Shandong University
+* Instructor: *Advanced Functional Analysis*
+  - for graduate students at Shandong University
   - Fall 2019
 
 ***
