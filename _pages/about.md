@@ -44,7 +44,7 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
 
 ***
 
-Research Interests
+R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><span style="color: #FBC02D;">e</span><span style="color: #388E3C;">a</span><span style="color: #1976D2;">r</span><span style="color: #5C6BC0;">c</span><span style="color: #8E24AA;">h</span> Interests
 ======
 
 * *Methods*: Probability, Statistics, Simulation, Optimization 
