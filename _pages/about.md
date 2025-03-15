@@ -48,7 +48,7 @@ Research Interests
 ======
 
 * *Methods*: Probability, Statistics, Simulation, Optimization 
-* *Contextual and Crosscutting Areas*: Financial Engineering, Risk Management, Operations Management, Econometrics, Machine Learning
+* *Contextual and Crosscutting Areas*: Machine Learning, Financial Engineering, Risk Management, Operations Management, Econometrics
 
 Selected Papers
 ======
