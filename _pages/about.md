@@ -62,7 +62,7 @@ Selected Papers
 
 ***
 
-Awards & Honors
+Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><span style="color: #FBC02D;">s</span><span style="color: #388E3C;"> & </span><span style="color: #1976D2;">H</span><span style="color: #5C6BC0;">o</span><span style="color: #8E24AA;">n</span>ors
 ======
 
 * 2024 Youth May Fourth Medal (Collective), *Nanjing University*
