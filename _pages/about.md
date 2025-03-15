@@ -71,7 +71,7 @@ Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><
 
 ***
 
-Teaching
+T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><span style="color: #FBC02D;">c</span><span style="color: #388E3C;">h</span><span style="color: #1976D2;">i</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">g</span>
 ======
 
 * Instructor: *Principles of Economics*
