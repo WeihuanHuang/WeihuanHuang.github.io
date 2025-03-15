@@ -83,7 +83,7 @@ T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><sp
 
 ***
 
-Adhoc Referee Service
+Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">v</span><span style="color: #1976D2;">i</span><span style="color: #5C6BC0;">c</span><span style="color: #8E24AA;">e</span>
 ======
 
 * *Journal of Econometrics*
@@ -98,7 +98,7 @@ Adhoc Referee Service
 
 ***
 
-Academic Grants
+Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span><span style="color: #FBC02D;">i</span><span style="color: #388E3C;">c</span><span style="color: #1976D2;"> G</span><span style="color: #5C6BC0;">r</span><span style="color: #8E24AA;">a</span>nts
 ======
 
 * Principal Investigator (PI)
