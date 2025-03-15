@@ -25,7 +25,7 @@ Office Address: [Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https
 
 ***
 
-Experience
+Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">i</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">c</span>e
 ======
 
 * **Nanjing University**, School of Management & Engineering
