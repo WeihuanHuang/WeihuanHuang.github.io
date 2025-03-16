@@ -53,12 +53,12 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
 Selected Papers
 ======
 
-* <span style="text-align: justify; display: block;">Dongxuan Zhu, Caihua Chen, Peter W. Glynn, and **Weihuan Huang** (2024+) Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization. Preprint.</span>
+* <span style="text-align: justify; display: block;">Dongxuan Zhu, Caihua Chen, Peter W. Glynn, **Weihuan Huang** (2024+) Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization. Preprint.</span>
 * <span style="text-align: justify; display: block;">**Weihuan Huang** (2023+) Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method. Submitted.</span>
-* <span style="text-align: justify; display: block;">L. Jeff Hong, **Weihuan Huang**, Jiheng Zhang, and Xiaowei Zhang (2023+) Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules. Under Major Revision at <span style="font-family: American Typewriter;">***Management Science***</span>.</span>
-* <span style="text-align: justify; display: block;">**Weihuan Huang**, Chenghu Ma, and Yuhong Xu (2023+) Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium. Under R&R.</span>
-* <span style="text-align: justify; display: block;">**Weihuan Huang**, Nifei Lin, and L. Jeff Hong (2024) [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211). <span style="font-family: American Typewriter;">***Operations Research***</span> 72(6): 2337--2357.</span>
-* <span style="text-align: justify; display: block;">Zengjing Chen, **Weihuan Huang**, and Panyu Wu (2019) [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010). <span style="font-family: American Typewriter;">***Mathematical Control and Related Fields***</span> 9(1): 175--190.</span>
+* <span style="text-align: justify; display: block;">L. Jeff Hong, **Weihuan Huang**, Jiheng Zhang, Xiaowei Zhang (2023+) Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules. Under Major Revision at <span style="font-family: American Typewriter;">***Management Science***</span>.</span>
+* <span style="text-align: justify; display: block;">**Weihuan Huang**, Chenghu Ma, Yuhong Xu (2023+) Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium. Under R&R.</span>
+* <span style="text-align: justify; display: block;">**Weihuan Huang**, Nifei Lin, L. Jeff Hong (2024) [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211). <span style="font-family: American Typewriter;">***Operations Research***</span> 72(6): 2337--2357.</span>
+* <span style="text-align: justify; display: block;">Zengjing Chen, **Weihuan Huang**, Panyu Wu (2019) [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010). <span style="font-family: American Typewriter;">***Mathematical Control and Related Fields***</span> 9(1): 175--190.</span>
 
 ***
 
