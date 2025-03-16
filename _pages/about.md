@@ -42,7 +42,7 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
   - Soochow University: 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15
   - Xiamen University: 2018/06/02--06/11, 2019/10/15--10/25
 
-**---**
+***
 
 R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><span style="color: #FBC02D;">e</span><span style="color: #388E3C;">a</span><span style="color: #1976D2;">r</span><span style="color: #5C6BC0;">c</span><span style="color: #8E24AA;">h</span> Interests
 ======
