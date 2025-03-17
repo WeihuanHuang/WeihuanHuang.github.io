@@ -32,11 +32,11 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
   - 2025/03--present: Tenure-Track Assistant Professor & Research Professor
   - 2022/08--2025/02: Research Assistant Professor
 * **Fudan University**, School of Data Science
-  - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. L. Jeff Hong
+  - 2020/08--2022/07: Postdoc in Statistics, Mentor: Prof. <span style="font-family: American Typewriter;">L. Jeff Hong</span>
 * **Shandong University**, Institute for Financial Studies
-  - 2015/09--2020/06: Ph.D. in Mathematics, Advisor: Prof. Zengjing Chen
+  - 2015/09--2020/06: Ph.D. in Mathematics, Advisor: Prof. <span style="font-family: American Typewriter;">Zengjing Chen</span>
 * **The University of Kansas**, Department of Economics
-  - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: Prof. Zongwu Cai
+  - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: Prof. <span style="font-family: American Typewriter;">Zongwu Cai</span>
 * **Visiting Scholar Experience**
   - The Hong Kong University of Science and Technology: 2025/03/10--04/17
   - Soochow University: 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15
