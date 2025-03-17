@@ -15,7 +15,7 @@ redirect_from:
 [School of Management & Engineering](https://sme.nju.edu.cn/main.htm)<br>
 [Nanjing University](https://www.nju.edu.cn)
 
-Email: [hwh@nju.edu.cn](mailto:hwh@nju.edu.cn)<br>
+Email: <span style="font-family: American Typewriter;">[hwh@nju.edu.cn](mailto:hwh@nju.edu.cn)</span><br>
 Personal Website in Chinese: [https://sme.nju.edu.cn/hwh](https://sme.nju.edu.cn/hwh/main.htm)<br>
 Office Address: [Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https://www.google.com/maps/place/32°03'18.8%22N+118°46'40.1%22E/@32.0551419,118.7779134,18.78z/data=!4m4!3m3!8m2!3d32.055231!4d118.777816?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D), 22 Hankou Road, Nanjing 210093, Jiangsu Province, China
 
