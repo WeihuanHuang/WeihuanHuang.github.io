@@ -65,19 +65,19 @@ Selected Papers
 Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><span style="color: #FBC02D;">s</span><span style="color: #388E3C;"> & </span><span style="color: #1976D2;">H</span><span style="color: #5C6BC0;">o</span><span style="color: #8E24AA;">n</span>ors
 ======
 
-* 2024 Youth May Fourth Medal (Collective), *Nanjing University*
-* 2022 Best Paper Award (The First Prize) for Young Scholars, *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
-* 2020 Fudan Super Postdoc, *Fudan University*
+* <span style="font-family: American Typewriter;">2024 Youth May Fourth Medal (Collective)</span>, from *Nanjing University*
+* <span style="font-family: American Typewriter;">2022 Best Paper Award (The First Prize) for Young Scholars</span>, from *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
+* <span style="font-family: American Typewriter;">2020 Fudan Super Postdoc</span>, from *Fudan University*
 
 ***
 
 T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><span style="color: #FBC02D;">c</span><span style="color: #388E3C;">h</span><span style="color: #1976D2;">i</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">g</span>
 ======
 
-* Instructor: *Principles of Economics*
+* Instructor: <span style="font-family: American Typewriter;">*Principles of Economics*</span>
   - For undergraduate students at Nanjing University
   - Fall 2023, Spring 2024, Fall 2024, Spring 2025
-* Instructor: *Advanced Functional Analysis*
+* Instructor: <span style="font-family: American Typewriter;">*Advanced Functional Analysis*</span>
   - For international graduate students at Shandong University
   - Fall 2019
 
