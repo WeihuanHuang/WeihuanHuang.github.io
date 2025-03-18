@@ -54,7 +54,7 @@ Selected Papers
 ======
 
 * Dongxuan Zhu, Caihua Chen, Peter W. Glynn, **Weihuan Huang** (2024+) Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization. Preprint.
-* **Weihuan Huang** (2023+) Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method. Submitted.</span>
+* **Weihuan Huang** (2023+) Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method. Submitted.
 * <span style="text-align: justify; display: block;">L. Jeff Hong, **Weihuan Huang**, Jiheng Zhang, Xiaowei Zhang (2023+) Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules. Under Major Revision at <span style="font-family: American Typewriter;">***Management Science***</span>.
 * **Weihuan Huang**, Chenghu Ma, Yuhong Xu (2023+) Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium. Under R&R.
 * **Weihuan Huang**, Nifei Lin, L. Jeff Hong (2024) [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211). <span style="font-family: American Typewriter;">***Operations Research***</span> 72(6): 2337--2357.
