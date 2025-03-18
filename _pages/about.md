@@ -28,19 +28,19 @@ Office Address: <span style="font-family: American Typewriter;">[Room 505, Xiexi
 Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">i</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">c</span>e
 ======
 
-* **Nanjing University**, School of Management & Engineering
+* <span style="font-family: American Typewriter;">**Nanjing University**</span>, School of Management & Engineering
   - 2025/03--present: Tenure-Track Assistant Professor & Research Professor
   - 2022/08--2025/02: Research Assistant Professor
-* **Fudan University**, School of Data Science
+* <span style="font-family: American Typewriter;">**Fudan University**</span>, School of Data Science
   - 2020/08--2022/07: Postdoc in Statistics, Mentor: <span style="font-family: American Typewriter;">Prof. L. Jeff Hong</span>
-* **Shandong University**, Institute for Financial Studies
+* <span style="font-family: American Typewriter;">**Shandong University**</span>, Institute for Financial Studies
   - 2015/09--2020/06: Ph.D. in Mathematics, Advisor: <span style="font-family: American Typewriter;">Prof. Zengjing Chen</span>
-* **The University of Kansas**, Department of Economics
+* <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
   - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: <span style="font-family: American Typewriter;">Prof. Zongwu Cai</span>
 * **Visiting Scholar Experience**
-  - The Hong Kong University of Science and Technology: 2025/03/10--04/17
-  - Soochow University: 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15
-  - Xiamen University: 2018/06/02--06/11, 2019/10/15--10/25
+  - <span style="font-family: American Typewriter;">The Hong Kong University of Science and Technology</span>: 2025/03/10--04/17
+  - <span style="font-family: American Typewriter;">Soochow University</span>: 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15
+  - <span style="font-family: American Typewriter;">Xiamen University</span>: 2018/06/02--06/11, 2019/10/15--10/25
 
 ***
 
