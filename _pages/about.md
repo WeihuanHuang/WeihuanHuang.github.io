@@ -102,15 +102,15 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 ======
 
 * Principal Investigator (PI)
-  - 2024/01--2026/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#12301601)
+  - 2024/01--2026/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#12301601), Topic: Financial Mathematics
 * Participant
-  - 2024/01--2028/12: <span style="font-family: American Typewriter;">Major Program</span> of NSFC (#72394364)
-  - 2024/01--2027/12: <span style="font-family: American Typewriter;">General Program</span> of NSFC (#72371125)
-  - 2022/01--2025/12: <span style="font-family: American Typewriter;">International Cooperation and Exchange Program</span> of NSFC-RGC (#72161160340)
-  - 2021/01--2025/12: <span style="font-family: American Typewriter;">Major Program</span> of NSFC (#72091211)
-  - 2019/01--2022/12: <span style="font-family: American Typewriter;">General Program</span> of NSFC (#11871050)
-  - 2018/01--2020/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#11701331)
-  - 2017/01--2019/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#11601280)
+  - 2024/01--2028/12: <span style="font-family: American Typewriter;">Major Program</span> of NSFC (#72394364), Topic: Optimization
+  - 2024/01--2027/12: <span style="font-family: American Typewriter;">General Program</span> of NSFC (#72371125), Topic: Financial Engineering
+  - 2022/01--2025/12: <span style="font-family: American Typewriter;">International Cooperation and Exchange Program</span> of NSFC-RGC (#72161160340), Topic: Financial Engineering
+  - 2021/01--2025/12: <span style="font-family: American Typewriter;">Major Program</span> of NSFC (#72091211), Topic: Supply Chain Management
+  - 2019/01--2022/12: <span style="font-family: American Typewriter;">General Program</span> of NSFC (#11871050), Topic: Financial Mathematics
+  - 2018/01--2020/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#11701331), Topic: Probability Theory
+  - 2017/01--2019/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#11601280), Topic: Probability Theory
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Note*: NSFC = National Natural Science Foundation of China; RGC = The Hong Kong Research Grants Council.)
 
