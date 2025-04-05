@@ -101,7 +101,7 @@ Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;
 Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span><span style="color: #FBC02D;">i</span><span style="color: #388E3C;">c</span><span style="color: #1976D2;"> G</span><span style="color: #5C6BC0;">r</span><span style="color: #8E24AA;">a</span>nts
 ======
 
-* Principal Investigator (PI)
+* Principal Investigator
   - 2024/01--2026/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#12301601), Topic: <span style="font-family: American Typewriter;">Financial Mathematics</span>
 * Participant
   - 2024/01--2028/12: <span style="font-family: American Typewriter;">Major Program</span> of NSFC (#72394364), Topic: <span style="font-family: American Typewriter;">Optimization</span>
