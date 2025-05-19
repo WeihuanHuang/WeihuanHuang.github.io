@@ -113,6 +113,6 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
   - 2018/01--2020/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#11701331), Topic: <span style="font-family: American Typewriter;">Probability Theory</span>
   - 2017/01--2019/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#11601280), Topic: <span style="font-family: American Typewriter;">Probability Theory</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Note*: NSFC = National Natural Science Foundation of China; RGC = The Hong Kong Research Grants Council.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Note*: NSFC = National Natural Science Foundation of China; NSSFC = National Social Science Foundation of China; RGC = The Hong Kong Research Grants Council.)
 
 ***
