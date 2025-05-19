@@ -104,6 +104,7 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 * Principal Investigator
   - 2024/01--2026/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#12301601), Topic: <span style="font-family: American Typewriter;">Financial Mathematics</span>
 * Participant
+  - 2024/11--2027/11: <span style="font-family: American Typewriter;">General Program</span> of NSSFC (#24BJY089), Topic: <span style="font-family: American Typewriter;">Financial Engineering</span>
   - 2024/01--2028/12: <span style="font-family: American Typewriter;">Major Program</span> of NSFC (#72394364), Topic: <span style="font-family: American Typewriter;">Optimization</span>
   - 2024/01--2027/12: <span style="font-family: American Typewriter;">General Program</span> of NSFC (#72371125), Topic: <span style="font-family: American Typewriter;">Financial Engineering</span>
   - 2022/01--2025/12: <span style="font-family: American Typewriter;">International Cooperation and Exchange Program</span> of NSFC-RGC (#72161160340), Topic: <span style="font-family: American Typewriter;">Financial Engineering</span>
