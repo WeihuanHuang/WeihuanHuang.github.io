@@ -25,7 +25,7 @@ Office Address: <span style="font-family: American Typewriter;">[Room 505, Xiexi
 
 ***
 
-Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">i</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">c</span>e
+Employment Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">i</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">c</span>e
 ======
 
 * <span style="font-family: American Typewriter;">**Nanjing University**</span>, School of Management & Engineering
@@ -33,6 +33,10 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
   - 2022/08--2025/02: Research Assistant Professor
 * <span style="font-family: American Typewriter;">**Fudan University**</span>, School of Data Science
   - 2020/08--2022/07: Postdoc in Statistics, Mentor: <span style="font-family: American Typewriter;">Prof. L. Jeff Hong</span>
+
+Education Experience
+======
+
 * <span style="font-family: American Typewriter;">**Shandong University**</span>, Institute for Financial Studies
   - 2015/09--2020/06: Ph.D. in Mathematics, Advisor: <span style="font-family: American Typewriter;">Prof. Zengjing Chen</span>
 * <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
@@ -40,10 +44,15 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
 
 Visiting Scholar Experience
 ======
-  - <span style="font-family: American Typewriter;">The University of Minnesota</span>, Department of Industrial and Systems Engineering: 2025/08/10--11/10
-  - <span style="font-family: American Typewriter;">The Hong Kong University of Science and Technology</span>, Department of Industrial Engineering and Decision Analytics: 2025/03/10--04/17
-  - <span style="font-family: American Typewriter;">Soochow University</span>, Center for Financial Engineering: 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15
-  - <span style="font-family: American Typewriter;">Xiamen University</span>, The Wang Yanan Institute for Studies in Economics: 2018/06/02--06/11, 2019/10/15--10/25
+
+* <span style="font-family: American Typewriter;">The University of Minnesota</span>, Department of Industrial and Systems Engineering
+  - 2025/08/10--11/10
+* <span style="font-family: American Typewriter;">The Hong Kong University of Science and Technology</span>, Department of Industrial Engineering and Decision Analytics
+  - 2025/03/10--04/17
+* <span style="font-family: American Typewriter;">Soochow University</span>, Center for Financial Engineering
+  - 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15
+* <span style="font-family: American Typewriter;">Xiamen University</span>, The Wang Yanan Institute for Studies in Economics
+  - 2018/06/02--06/11, 2019/10/15--10/25
 
 ***
 
