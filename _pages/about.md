@@ -38,7 +38,7 @@ Employment & Education Ex<span style="color: #D32F2F;">p</span><span style="colo
 * <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
   - 2017/09--2019/08: Joint-Ph.D. in Economics, Advisor: <span style="font-family: American Typewriter;">Prof. Zongwu Cai</span>
 
-Visiting Experience
+Visiting Scholar Experience
 ======
 
 * <span style="font-family: American Typewriter;">**The University of Minnesota**</span>, Department of Industrial and Systems Engineering
