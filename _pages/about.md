@@ -32,11 +32,11 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
   - 2025/03--present: <span style="font-family: American Typewriter;">**Tenure-Track Assistant Professor**</span> & <span style="font-family: American Typewriter;">**Research Professor**</span>
   - 2022/08--2025/02: <span style="font-family: American Typewriter;">**Research Assistant Professor**</span>
 * <span style="font-family: American Typewriter;">**Fudan University**</span>, School of Data Science
-  - 2020/08--2022/07: <span style="font-family: American Typewriter;">**Postdoc**</span> in Statistics (Mentor: <span style="font-family: American Typewriter;">Prof. L. Jeff Hong</span>)
+  - 2020/08--2022/07: <span style="font-family: American Typewriter;">**Postdoc**</span> in Statistics (Mentor: Prof. <span style="font-family: American Typewriter;">L. Jeff Hong</span>)
 * <span style="font-family: American Typewriter;">**Shandong University**</span>, Institute for Financial Studies
-  - 2015/09--2020/06: <span style="font-family: American Typewriter;">**Ph.D.**</span> in Mathematics (Advisor: <span style="font-family: American Typewriter;">Prof. Zengjing Chen</span>)
+  - 2015/09--2020/06: <span style="font-family: American Typewriter;">**Ph.D.**</span> in Mathematics (Advisor: Prof. <span style="font-family: American Typewriter;">Zengjing Chen</span>)
 * <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
-  - 2017/09--2019/08: <span style="font-family: American Typewriter;">**Joint-Ph.D.**</span> in Economics (Advisor: <span style="font-family: American Typewriter;">Prof. Zongwu Cai</span>)
+  - 2017/09--2019/08: <span style="font-family: American Typewriter;">**Joint-Ph.D.**</span> in Economics (Advisor: Prof. <span style="font-family: American Typewriter;">Zongwu Cai</span>)
 * <span style="font-family: American Typewriter;">The University of Minnesota</span>, Department of Industrial and Systems Engineering
   - 2025/08/10--11/10: <span style="font-family: American Typewriter;">**Visiting Scholar**</span>
 * <span style="font-family: American Typewriter;">The Hong Kong University of Science and Technology</span>, Department of Industrial Engineering and Decision Analytics
