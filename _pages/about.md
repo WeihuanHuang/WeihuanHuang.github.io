@@ -42,13 +42,13 @@ Visiting Experience
 ======
 
 * <span style="font-family: American Typewriter;">The University of Minnesota</span>, Department of Industrial and Systems Engineering
-  - 2025/08/10--11/10: <span style="font-family: American Typewriter;">**Visiting Scholar**</span>
+  - 2025/08/10--11/10: <span style="font-family: American Typewriter;">Visiting Scholar</span>
 * <span style="font-family: American Typewriter;">The Hong Kong University of Science and Technology</span>, Department of Industrial Engineering and Decision Analytics
-  - 2025/03/10--04/17: <span style="font-family: American Typewriter;">**Visiting Scholar**</span>
+  - 2025/03/10--04/17: <span style="font-family: American Typewriter;">Visiting Scholar</span>
 * <span style="font-family: American Typewriter;">Soochow University</span>, Center for Financial Engineering
-  - 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15: <span style="font-family: American Typewriter;">**Visiting Scholar**</span>
+  - 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15: <span style="font-family: American Typewriter;">Visiting Scholar</span>
 * <span style="font-family: American Typewriter;">Xiamen University</span>, The Wang Yanan Institute for Studies in Economics
-  - 2018/06/02--06/11, 2019/10/15--10/25: <span style="font-family: American Typewriter;">**Visiting Scholar**</span>
+  - 2018/06/02--06/11, 2019/10/15--10/25: <span style="font-family: American Typewriter;">Visiting Scholar</span>
 
 ***
 
