@@ -38,7 +38,7 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
 * <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
   - 2017/09--2019/08: <span style="font-family: American Typewriter;">**Joint-Ph.D.**</span> in Economics (Advisor: Prof. <span style="font-family: American Typewriter;">Zongwu Cai</span>)
 
-Visiting
+Short-term Visit
 ======
 
 * <span style="font-family: American Typewriter;">The University of Minnesota</span>, Department of Industrial and Systems Engineering
