@@ -25,7 +25,7 @@ Office Address: <span style="font-family: American Typewriter;">[Room 505, Xiexi
 
 ***
 
-Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">i</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">c</span>e
+Employment Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">i</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">c</span>e
 ======
 
 * <span style="font-family: American Typewriter;">**Nanjing University**</span>, School of Management & Engineering
@@ -33,6 +33,9 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
   - 2022/08--2025/02: <span style="font-family: American Typewriter;">**Research Assistant Professor**</span>
 * <span style="font-family: American Typewriter;">**Fudan University**</span>, School of Data Science
   - 2020/08--2022/07: <span style="font-family: American Typewriter;">**Postdoc**</span> in Statistics (Mentor: Prof. <span style="font-family: American Typewriter;">L. Jeff Hong</span>)
+ 
+Education Experience
+======
 * <span style="font-family: American Typewriter;">**Shandong University**</span>, Institute for Financial Studies
   - 2015/09--2020/06: <span style="font-family: American Typewriter;">**Ph.D.**</span> in Mathematics (Advisor: Prof. <span style="font-family: American Typewriter;">Zengjing Chen</span>)
 * <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
