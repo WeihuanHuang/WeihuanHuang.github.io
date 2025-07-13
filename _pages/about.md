@@ -16,7 +16,7 @@ redirect_from:
 [Nanjing University](https://www.nju.edu.cn)
 
 Email: [<span style="font-family: American Typewriter;">hwh@nju.edu.cn</span>](mailto:hwh@nju.edu.cn)<br>
-Personal Website in Chinese: [<span style="font-family: American Typewriter;">https://sme.nju.edu.cn/hwh</span>](https://sme.nju.edu.cn/hwh/main.htm)<br>
+Personal Website in Chinese: [<span style="font-family: American Typewriter;">https://sme.nju.edu.cn/hwh</span>](https://sme.nju.edu.cn/hwh1/main.htm)<br>
 Office Address: <span style="font-family: American Typewriter;">[Room 505, Xiexin Hall, Nanjing University (Gulou Campus)](https://www.google.com/maps/place/32°03'18.8%22N+118°46'40.1%22E/@32.0551419,118.7779134,18.78z/data=!4m4!3m3!8m2!3d32.055231!4d118.777816?entry=ttu&g_ep=EgoyMDI0MDgyMy4wIKXMDSoASAFQAw%3D%3D), 22 Hankou Road, Nanjing 210093, Jiangsu Province, China</span>
 
 | <span style="font-size: 27px; margin: 8px;">B<span style="color: #D32F2F;">i</span><span style="color: #F57C20;">o</span><span style="color: #FBC02D;">g</span><span style="color: #388E3C;">r</span><span style="color: #1976D2;">a</span><span style="color: #5C6BC0;">p</span><span style="color: #8E24AA;">h</span>y</span> |
@@ -42,13 +42,13 @@ Short-term Visit
 ======
 
 * <span style="font-family: American Typewriter;">The University of Minnesota</span>, Department of Industrial and Systems Engineering
-  - 2025/08/10--11/10: <span style="font-family: American Typewriter;">Visiting Scholar</span>
+  - 2025/08/10--11/10
 * <span style="font-family: American Typewriter;">The Hong Kong University of Science and Technology</span>, Department of Industrial Engineering and Decision Analytics
-  - 2025/03/10--04/17: <span style="font-family: American Typewriter;">Visiting Scholar</span>
+  - 2025/03/10--04/17
 * <span style="font-family: American Typewriter;">Soochow University</span>, Center for Financial Engineering
-  - 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15: <span style="font-family: American Typewriter;">Visiting Scholar</span>
+  - 2018/06/15--07/15, 2019/08/14--08/28, 2020/01/07--01/15
 * <span style="font-family: American Typewriter;">Xiamen University</span>, The Wang Yanan Institute for Studies in Economics
-  - 2018/06/02--06/11, 2019/10/15--10/25: <span style="font-family: American Typewriter;">Visiting Scholar</span>
+  - 2018/06/02--06/11, 2019/10/15--10/25
 
 ***
 
@@ -74,9 +74,12 @@ Selected Papers
 Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><span style="color: #FBC02D;">s</span><span style="color: #388E3C;"> & </span><span style="color: #1976D2;">H</span><span style="color: #5C6BC0;">o</span><span style="color: #8E24AA;">n</span>ors
 ======
 
-* <span style="font-family: American Typewriter;">2024 Youth May Fourth Medal (Collective)</span>, from *Nanjing University*
-* <span style="font-family: American Typewriter;">2022 Best Paper Award (The First Prize) for Young Scholars</span>, from *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
-* <span style="font-family: American Typewriter;">2020 Fudan Super Postdoc</span>, from *Fudan University*
+* <span style="font-family: American Typewriter;">2024 Youth May Fourth Medal (Collective)</span>
+  - from *Nanjing University*
+* <span style="font-family: American Typewriter;">2022 Best Paper Award (The First Prize) for Young Scholars</span>
+  - from *Operations Research Society of China (Financial Engineering and Financial Risk Management Branch)*
+* <span style="font-family: American Typewriter;">2020 Fudan Super Postdoc</span>
+  - from *Fudan University*
 
 ***
 
@@ -85,7 +88,7 @@ T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><sp
 
 * Instructor: <span style="font-family: American Typewriter;">*Principles of Economics*</span>
   - For undergraduate students at Nanjing University
-  - Fall 2023, Spring 2024, Fall 2024, Spring 2025
+  - Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025
 * Instructor: <span style="font-family: American Typewriter;">*Advanced Functional Analysis*</span>
   - For international graduate students at Shandong University
   - Fall 2019
