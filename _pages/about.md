@@ -42,7 +42,7 @@ Short-term Visit
 ======
 
 * <span style="font-family: American Typewriter;">The University of Minnesota</span>, Department of Industrial and Systems Engineering
-  - 2025/08/10--11/10
+  - 2025/08/07--11/08
 * <span style="font-family: American Typewriter;">The Hong Kong University of Science and Technology</span>, Department of Industrial Engineering and Decision Analytics
   - 2025/03/10--04/17
 * <span style="font-family: American Typewriter;">Soochow University</span>, Center for Financial Engineering
