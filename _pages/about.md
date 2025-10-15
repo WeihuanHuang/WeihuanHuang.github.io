@@ -131,5 +131,4 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 
 ***
 
-| <span style="font-size: 22px; margin: 8px;"> <span style="color: #D32F2F;">U</span><span style="color: #F57C20;">p</span><span style="color: #FBC02D;">d</span><span style="color: #388E3C;">a</span><span style="color: #1976D2;">t</span><span style="color: #5C6BC0;">e</span><span style="color: #8E24AA;">d</span></span> |
-|<span style="font-size: 18px; text-align: justify; display: block; margin: 12px;"> October 12, 2025. </span>|
+<span style="font-size: 22px; margin: 8px;"> <span style="color: #D32F2F;">U</span><span style="color: #F57C20;">p</span><span style="color: #FBC02D;">d</span><span style="color: #388E3C;">a</span><span style="color: #1976D2;">t</span><span style="color: #5C6BC0;">e</span><span style="color: #8E24AA;">d</span></span>: <span style="font-size: 18px; text-align: justify; display: block; margin: 12px;"> October 12, 2025. </span>
