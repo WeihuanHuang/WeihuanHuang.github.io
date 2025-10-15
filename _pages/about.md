@@ -131,7 +131,4 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 
 ***
 
-~
-~
-
-Updated: Oct 12, 2025.
+| Updated: Oct 12, 2025. |
