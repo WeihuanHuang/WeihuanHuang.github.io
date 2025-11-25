@@ -101,6 +101,7 @@ Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;
 ======
 
 * *Journal of Econometrics*
+* *Queueing Systems*
 * *ACM Transactions on Modeling and Computer Simulation*
 * *Reliability Engineering & System Safety*
 * *Journal of the Operations Research Society of China*
