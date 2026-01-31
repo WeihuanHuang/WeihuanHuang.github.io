@@ -29,8 +29,8 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
 ======
 
 * <span style="font-family: American Typewriter;">**Nanjing University**</span>, School of Management & Engineering
-  - 2025/03--present: <span style="font-family: American Typewriter;">**Tenure-Track Assistant Professor**</span> & <span style="font-family: American Typewriter;">**Research Professor**</span>
-  - 2022/08--2025/02: <span style="font-family: American Typewriter;">**Research Assistant Professor**</span>
+  - 2025/03--present: <span style="font-family: American Typewriter;">**Tenure-Track Assistant Professor**</span> (TTAP) & <span style="font-family: American Typewriter;">**Research Professor**</span> (RP)
+  - 2022/08--2025/02: <span style="font-family: American Typewriter;">**Research Assistant Professor**</span> (RAP)
 * <span style="font-family: American Typewriter;">**Fudan University**</span>, School of Data Science
   - 2020/08--2022/07: <span style="font-family: American Typewriter;">**Postdoc**</span> in Statistics
 * <span style="font-family: American Typewriter;">**Shandong University**</span>, Institute for Financial Studies
