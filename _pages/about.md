@@ -86,10 +86,10 @@ Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><
 T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><span style="color: #FBC02D;">c</span><span style="color: #388E3C;">h</span><span style="color: #1976D2;">i</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">g</span>
 ======
 
-* Instructor: <span style="font-family: American Typewriter;">*Principles of Economics*</span>
+* **Instructor:** <span style="font-family: American Typewriter;">*Principles of Economics*</span>
   - For undergraduate students at Nanjing University
   - Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026
-* Instructor: <span style="font-family: American Typewriter;">*Advanced Functional Analysis*</span>
+* **Instructor:** <span style="font-family: American Typewriter;">*Advanced Functional Analysis*</span>
   - For international graduate students at Shandong University
   - Fall 2019
 
@@ -114,9 +114,9 @@ Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;
 Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span><span style="color: #FBC02D;">i</span><span style="color: #388E3C;">c</span><span style="color: #1976D2;"> G</span><span style="color: #5C6BC0;">r</span><span style="color: #8E24AA;">a</span>nts
 ======
 
-* Principal Investigator
+* **Principal Investigator**
   - 2024/01--2026/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#12301601)
-* Participant
+* **Participant**
   - 2024/11--2027/11: <span style="font-family: American Typewriter;">General Program</span> of NSSFC (#24BJY089)
   - 2024/01--2028/12: <span style="font-family: American Typewriter;">Major Program</span> of NSFC (#72394364)
   - 2024/01--2027/12: <span style="font-family: American Typewriter;">General Program</span> of NSFC (#72371125)
