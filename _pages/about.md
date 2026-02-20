@@ -37,6 +37,8 @@ Academic Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e
   - 2015/09--2020/06: <span style="font-family: American Typewriter;">**Ph.D.**</span> in Mathematics
 * <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
   - 2017/09--2019/08: <span style="font-family: American Typewriter;">**Joint-Ph.D.**</span> in Economics
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Weihuan Huang's Academic Tree: [click here](https://weihuanhuang.github.io/Tree.jpg).)
 
 Short-term Visit
 ======
