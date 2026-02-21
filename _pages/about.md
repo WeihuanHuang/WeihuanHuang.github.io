@@ -32,11 +32,11 @@ Academic Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e
   - 2025/03--present: <span style="font-family: American Typewriter;">**Tenure-Track Assistant Professor**</span> (TTAP) & <span style="font-family: American Typewriter;">**Research Professor**</span> (RP)
   - 2022/08--2025/02: <span style="font-family: American Typewriter;">**Research Assistant Professor**</span> (RAP)
 * <span style="font-family: American Typewriter;">**Fudan University**</span>, School of Data Science
-  - 2020/08--2022/07: <span style="font-family: American Typewriter;">**Postdoc**</span> in Statistics
+  - 2020/08--2022/07: <span style="font-family: American Typewriter;">**Postdoc**</span> in Statistics, Advisor: Prof. L. Jeff Hong
 * <span style="font-family: American Typewriter;">**Shandong University**</span>, Institute for Financial Studies
-  - 2015/09--2020/06: <span style="font-family: American Typewriter;">**Ph.D.**</span> in Mathematics
+  - 2015/09--2020/06: <span style="font-family: American Typewriter;">**Ph.D.**</span> in Mathematics, Advisor: Prof. Zengjing Chen
 * <span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics
-  - 2017/09--2019/08: <span style="font-family: American Typewriter;">**Joint-Ph.D.**</span> in Economics
+  - 2017/09--2019/08: <span style="font-family: American Typewriter;">**Joint-Ph.D.**</span> in Economics, Advisor: Prof. Zongwu Cai
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Weihuan Huang's Academic Tree*: [click here](https://weihuanhuang.github.io/Tree.jpg).)
 
