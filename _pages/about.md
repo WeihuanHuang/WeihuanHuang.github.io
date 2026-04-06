@@ -26,7 +26,6 @@ redirect_from:
 ***
 
 <h2 id="experience">Academic Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">i</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">c</span>e</h2>
-#======
 
 * <span style="font-family: American Typewriter;">**Nanjing University**</span>, School of Management & Engineering
   - 2025/03--present: <span style="font-family: American Typewriter;">**Tenure-Track Assistant Professor**</span> (TTAP) & <span style="font-family: American Typewriter;">**Research Professor**</span> (RP)
