@@ -6,22 +6,22 @@
 
 main:
   - title: "Experience"
-    url: "/#experience"
+    url: "/#Academic Experience"
 
   - title: "Research"
-    url: "/#research"
+    url: "/#Research Interests"
 
   - title: "Awards"
-    url: "/#awards"
+    url: "/#Awards & Honors"
 
   - title: "Teaching"
-    url: "/#teaching"
+    url: "/#Teaching"
 
   - title: "Service"
-    url: "/#service"
+    url: "/#Adhoc Referee Service"
 
   - title: "Grants"
-    url: "/#grants"
+    url: "/#Academic Grants"
     
   #- title: "Publications"
   #  url: /publications/
