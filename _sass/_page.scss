@@ -55,7 +55,12 @@
     border-bottom: 1px solid $border-color;
   }
 
-  h2[id] {
+  #experience,
+  #research,
+  #awards,
+  #teaching,
+  #service,
+  #grants {
     scroll-margin-top: 80px;
   }
    
