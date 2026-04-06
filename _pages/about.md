@@ -77,9 +77,10 @@ Selected Papers
 
 ***
 
+<div id="awards" class="section-anchor"></div>
+
 Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><span style="color: #FBC02D;">s</span><span style="color: #388E3C;"> & </span><span style="color: #1976D2;">H</span><span style="color: #5C6BC0;">o</span><span style="color: #8E24AA;">n</span>ors
 ======
-{: #awards}
 
 * <span style="font-family: American Typewriter;">2025 Jiangsu Young Elite Scientists Sponsorship Program</span>
   - from *Jiangsu Province*
@@ -90,9 +91,10 @@ Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><
 
 ***
 
+<div id="teaching" class="section-anchor"></div>
+
 T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><span style="color: #FBC02D;">c</span><span style="color: #388E3C;">h</span><span style="color: #1976D2;">i</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">g</span>
 ======
-{: #teaching}
 
 * **Instructor:** <span style="font-family: American Typewriter;">*Principles of Economics*</span>
   - For undergraduate students at Nanjing University
@@ -103,9 +105,10 @@ T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><sp
 
 ***
 
+<div id="service" class="section-anchor"></div>
+
 Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;">e</span><span style="color: #FBC02D;">r</span><span style="color: #388E3C;">v</span><span style="color: #1976D2;">i</span><span style="color: #5C6BC0;">c</span><span style="color: #8E24AA;">e</span>
 ======
-{: #service}
 
 * *Journal of Econometrics*
 * *Queueing Systems*
@@ -120,9 +123,10 @@ Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;
 
 ***
 
+<div id="grants" class="section-anchor"></div>
+
 Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span><span style="color: #FBC02D;">i</span><span style="color: #388E3C;">c</span><span style="color: #1976D2;"> G</span><span style="color: #5C6BC0;">r</span><span style="color: #8E24AA;">a</span>nts
 ======
-{: #grants}
 
 * **Principal Investigator**
   - 2024/01--2026/12: <span style="font-family: American Typewriter;">Young Scientists Fund Program</span> of NSFC (#12301601)
