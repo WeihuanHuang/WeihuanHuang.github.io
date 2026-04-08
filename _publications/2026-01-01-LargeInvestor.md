@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/largeinvestor
 date: 2026-01-01
 
-venue_display: "<em>Mathematics of Operations Research</em> (Under Major Revision)"
+venue_display: "<strong><em>Mathematics of Operations Research</em></strong> (Under Major Revision)"
 authors_html: "Weihuan Huang, Chenghu Ma, Yuhong Xu"
 
 teaser: "pub/largeinvestor.png"
