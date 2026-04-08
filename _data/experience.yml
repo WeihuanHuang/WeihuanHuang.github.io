@@ -1,18 +1,19 @@
-# Authors
+- title_html: "<strong>Nanjing University</strong>, School of Management & Engineering"
+  program: "Tenure-Track Assistant Professor (TTAP) & Research Professor (RP)"
+  dates: "2025/03--present"
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+- title_html: "<strong>Nanjing University</strong>, School of Management & Engineering"
+  program: "Research Assistant Professor (RAP)"
+  dates: "2022/08--2025/02"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+- title_html: "<strong>Fudan University</strong>, School of Data Science"
+  program: "Postdoc in Statistics, Advisor: Prof. L. Jeff Hong"
+  dates: "2020/08--2022/07"
+
+- title_html: "<strong>Shandong University</strong>, Institute for Financial Studies"
+  program: "Ph.D. in Mathematics, Advisor: Prof. Zengjing Chen"
+  dates: "2015/09--2020/06"
+
+- title_html: "<strong>The University of Kansas</strong>, Department of Economics"
+  program: "Joint-Ph.D. in Economics, Advisor: Prof. Zongwu Cai"
+  dates: "2017/09--2019/08"
