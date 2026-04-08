@@ -39,7 +39,7 @@ Short-term Visit
 
 {% include sections-visit.html %}
 
-***
+<hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
 <div id="research" class="section-anchor"></div>
 
@@ -68,7 +68,7 @@ Full List of Papers
 * **Weihuan Huang**, Panyu Wu (2022) [Strong Law of Large Numbers under Moment Restrictions in Sublinear Expectation Spaces](https://doi.org/10.1080/03610926.2021.1903504). <span style="font-family: American Typewriter;">***Communications in Statistics - Theory and Methods***</span> 51(24): 8671–8683.
 * Zengjing Chen, **Weihuan Huang**, Panyu Wu (2019) [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010). <span style="font-family: American Typewriter;">***Mathematical Control and Related Fields***</span> 9(1): 175--190.
 
-***
+<hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
 <div id="awards" class="section-anchor"></div>
 
@@ -82,7 +82,7 @@ Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><
 * <span style="font-family: American Typewriter;">2020 Fudan Super Postdoc</span>
   - from *Fudan University*
 
-***
+<hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
 <div id="teaching" class="section-anchor"></div>
 
@@ -96,7 +96,7 @@ T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><sp
   - For international graduate students at Shandong University
   - Fall 2019
 
-***
+<hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
 <div id="service" class="section-anchor"></div>
 
@@ -114,7 +114,7 @@ Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;
 * *Operations Research Transactions* (in Chinese)
 * *Journal of Systems & Management* (in Chinese)
 
-***
+<hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
 <div id="grants" class="section-anchor"></div>
 
@@ -135,6 +135,6 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(*Note*: NSFC = National Natural Science Foundation of China; NSSFC = National Social Science Foundation of China; RGC = The Hong Kong Research Grants Council.)
 
-***
+<hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
 <span style="font-size: 22px; margin: 8px;"> <span style="color: #D32F2F;">**U**</span><span style="color: #F57C20;">**p**</span><span style="color: #FBC02D;">**d**</span><span style="color: #388E3C;">**a**</span><span style="color: #1976D2;">**t**</span><span style="color: #5C6BC0;">**e**</span><span style="color: #8E24AA;">**d**</span>:</span> <span style="font-size: 18px; text-align: justify; display: block; margin: 12px;"> Feb 14, 2026. </span>
