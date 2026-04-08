@@ -72,7 +72,7 @@
     <div class="pub-card">
       <div class="pub-media">
         {% if post.teaser %}
-          <img src="{{ post.teaser | prepend: '/images/' }}" alt="{{ post.title }}">
+          <img src="{{ '/images/' | append: post.teaser | relative_url }}" alt="{{ post.title }}">
         {% endif %}
       </div>
       <div class="pub-content">
