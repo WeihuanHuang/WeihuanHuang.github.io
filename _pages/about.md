@@ -37,7 +37,7 @@ Ex<span style="color: #D32F2F;">p</span><span style="color: #F57C20;">e</span><s
 Short-term Visit
 ======
 
-
+{% include sections-visit.html %}
 
 ***
 
