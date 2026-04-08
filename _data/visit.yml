@@ -1,21 +1,15 @@
-- institution_html: '<span style="font-family: American Typewriter;"><strong>Nanjing University</strong></span>, School of Management & Engineering'
+- institution_html: '<span style="font-family: American Typewriter;">**The University of Minnesota**</span>, Department of Industrial and Systems Engineering'
   roles:
-    - date_html: '2025/03–present:'
-      position_html: '<span style="font-family: American Typewriter;"><strong>Tenure-Track Assistant Professor</strong></span> (TTAP) & <span style="font-family: American Typewriter;"><strong>Research Professor</strong></span> (RP)'
-    - date_html: '2022/08–2025/02:'
-      position_html: '<span style="font-family: American Typewriter;"><strong>Research Assistant Professor</strong></span> (RAP)'
+    - date_html: '2025/08/07–11/09'
 
-- institution_html: '<span style="font-family: American Typewriter;"><strong>Fudan University</strong></span>, School of Data Science'
+- institution_html: '<span style="font-family: American Typewriter;">**The Hong Kong University of Science and Technology**</span>, Department of Industrial Engineering and Decision Analytics'
   roles:
-    - date_html: '2020/08–2022/07:'
-      position_html: '<span style="font-family: American Typewriter;"><strong>Postdoc</strong></span> in Statistics, Advisor: Prof. L. Jeff Hong'
+    - date_html: '2025/03/10–04/17, 2026/03/04–04/23'
 
-- institution_html: '<span style="font-family: American Typewriter;"><strong>Shandong University</strong></span>, Institute for Financial Studies'
+- institution_html: '<span style="font-family: American Typewriter;">**Soochow University**</span>, Center for Financial Engineering'
   roles:
-    - date_html: '2015/09–2020/06:'
-      position_html: '<span style="font-family: American Typewriter;"><strong>Ph.D.</strong></span> in Mathematics, Advisor: Prof. Zengjing Chen'
+    - date_html: '2018/06/15–07/15, 2019/08/14–08/28, 2020/01/07–01/15'
 
-- institution_html: '<span style="font-family: American Typewriter;"><strong>The University of Kansas</strong></span>, Department of Economics'
+- institution_html: '<span style="font-family: American Typewriter;">**Xiamen University**</span>, The Wang Yanan Institute for Studies in Economics'
   roles:
-    - date_html: '2017/09–2019/08:'
-      position_html: '<span style="font-family: American Typewriter;"><strong>Joint-Ph.D.</strong></span> in Economics, Advisor: Prof. Zongwu Cai'
+    - date_html: '2018/06/02–06/11, 2019/10/15–10/25'
