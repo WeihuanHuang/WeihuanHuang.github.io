@@ -9,41 +9,17 @@
   border-left: 3px solid #e3e7ee;
 }
 
-.exp-school {
-  font-size: 1.06rem;
-  font-weight: 700;
-  line-height: 1.45;
-  margin-bottom: 0.35rem;
-}
-
 .exp-roles {
   margin-left: 1.25rem;
 }
 
 .exp-role {
   margin: 0.28rem 0;
-  line-height: 1.5;
-}
-
-.exp-dates {
-  display: inline-block;
-  min-width: 8.6rem;
-  color: #6b7280;
-}
-
-.exp-title {
-  display: inline;
 }
 
 @media (max-width: 768px) {
   .exp-roles {
     margin-left: 0.9rem;
-  }
-
-  .exp-dates {
-    display: block;
-    min-width: 0;
-    margin-bottom: 0.05rem;
   }
 }
 </style>
@@ -51,14 +27,11 @@
 <div class="exp-list">
   {% for item in site.data.experience %}
     <div class="exp-item">
-      <div class="exp-school">{{ item.institution_html }}</div>
+      <div>{{ item.institution_html }}</div>
 
       <div class="exp-roles">
         {% for role in item.roles %}
-          <div class="exp-role">
-            <span class="exp-dates">{{ role.dates }}</span>
-            <span class="exp-title">{{ role.title }}</span>
-          </div>
+          <div class="exp-role">{{ role.line_html }}</div>
         {% endfor %}
       </div>
     </div>
