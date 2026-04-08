@@ -1,50 +1,91 @@
 <style>
-.exp-list {
+.pub-list {
   margin-top: 1rem;
 }
 
-.exp-item {
-  margin: 0 0 1.4rem 0;
-  padding: 0.1rem 0 0.1rem 1rem;
-  border-left: 3px solid #e3e7ee;
+.pub-card {
+  display: flex;
+  gap: 1.4rem;
+  align-items: flex-start;
+  margin: 0 0 1.8rem 0;
+  padding: 0 0 1.5rem 0;
+  border-bottom: 1px solid #e6e6e6;
 }
 
-.exp-roles {
-  margin-left: 1.25rem;
+.pub-media {
+  flex: 0 0 220px;
+  width: 220px;
 }
 
-.exp-role {
-  display: grid;
-  grid-template-columns: 8.5rem 1fr;
-  column-gap: 0.75rem;
-  margin: 0.28rem 0;
-  align-items: start;
+.pub-media img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0;
 }
 
-@media (max-width: 768px) {
-  .exp-roles {
-    margin-left: 0.9rem;
+.pub-content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-title {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.pub-authors {
+  margin: 0 0 0.3rem 0;
+  font-size: 0.98rem;
+  color: #555;
+}
+
+.pub-venue {
+  margin: 0.35rem 0 0.75rem 0;
+  font-size: 0.98rem;
+  font-weight: 700;
+  color: #222;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.55rem;
+}
+
+@media (max-width: 900px) {
+  .pub-card {
+    display: block;
   }
-
-  .exp-role {
-    grid-template-columns: 1fr;
-    row-gap: 0.1rem;
+  .pub-media {
+    width: 100%;
+    margin-bottom: 0.9rem;
   }
 }
 </style>
 
-<div class="exp-list">
-  {% for item in site.data.experience %}
-    <div class="exp-item">
-      <div>{{ item.institution_html }}</div>
-
-      <div class="exp-roles">
-        {% for role in item.roles %}
-          <div class="exp-role">
-            <div>{{ role.date_html }}</div>
-            <div>{{ role.position_html }}</div>
-          </div>
-        {% endfor %}
+<div class="pub-list">
+  {% assign pubs = site.publications | sort: "date" | reverse %}
+  {% for post in pubs %}
+    <div class="pub-card">
+      <div class="pub-media">
+        {% if post.teaser %}
+          <img src="{{ post.teaser | prepend: '/images/' }}" alt="{{ post.title }}">
+        {% endif %}
+      </div>
+      <div class="pub-content">
+        <div class="pub-title">{{ post.title }}</div>
+        <div class="pub-authors">{{ post.authors_html }}</div>
+        <div class="pub-venue">{{ post.venue_display }}</div>
+        <div class="pub-links">
+          {% if post.projecturl %}<a class="btn btn--inverse btn--small" href="{{ post.projecturl }}">Project Page</a>{% endif %}
+          {% if post.paperurl %}<a class="btn btn--inverse btn--small" href="{{ post.paperurl }}">Paper</a>{% endif %}
+          {% if post.arxivurl %}<a class="btn btn--inverse btn--small" href="{{ post.arxivurl }}">arXiv</a>{% endif %}
+          {% if post.codeurl %}<a class="btn btn--inverse btn--small" href="{{ post.codeurl }}">Code</a>{% endif %}
+          {% if post.dataseturl %}<a class="btn btn--inverse btn--small" href="{{ post.dataseturl }}">Dataset</a>{% endif %}
+        </div>
       </div>
     </div>
   {% endfor %}
