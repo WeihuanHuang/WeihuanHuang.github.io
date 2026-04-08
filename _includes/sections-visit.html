@@ -1,46 +1,46 @@
 <style>
-.exp-list {
+.visit-list {
   margin-top: 1rem;
 }
 
-.exp-item {
+.visit-item {
   margin: 0 0 1.4rem 0;
   padding: 0.1rem 0 0.1rem 1rem;
   border-left: 3px solid #e3e7ee;
 }
 
-.exp-roles {
+.visit-roles {
   margin-left: 1.25rem;
 }
 
-.exp-role {
+.visit-role {
   display: grid;
-  grid-template-columns: 8.5rem 1fr;
+  grid-template-columns: 11.5rem 1fr;
   column-gap: 0.75rem;
   margin: 0.28rem 0;
   align-items: start;
 }
 
 @media (max-width: 768px) {
-  .exp-roles {
+  .visit-roles {
     margin-left: 0.9rem;
   }
 
-  .exp-role {
+  .visit-role {
     grid-template-columns: 1fr;
     row-gap: 0.1rem;
   }
 }
 </style>
 
-<div class="exp-list">
-  {% for item in site.data.experience %}
-    <div class="exp-item">
+<div class="visit-list">
+  {% for item in site.data.visit %}
+    <div class="visit-item">
       <div>{{ item.institution_html }}</div>
 
-      <div class="exp-roles">
+      <div class="visit-roles">
         {% for role in item.roles %}
-          <div class="exp-role">
+          <div class="visit-role">
             <div>{{ role.date_html }}</div>
             <div>{{ role.position_html }}</div>
           </div>
