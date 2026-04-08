@@ -1,15 +1,15 @@
-- institution_html: '<span style="font-family: American Typewriter;">**The University of Minnesota**</span>, Department of Industrial and Systems Engineering'
+- institution_html: '<span style="font-family: American Typewriter;"><strong>The University of Minnesota</strong></span>, Department of Industrial and Systems Engineering'
   roles:
     - date_html: '2025/08/07–11/09'
 
-- institution_html: '<span style="font-family: American Typewriter;">**The Hong Kong University of Science and Technology**</span>, Department of Industrial Engineering and Decision Analytics'
+- institution_html: '<span style="font-family: American Typewriter;"><strong>The Hong Kong University of Science and Technology</strong></span>, Department of Industrial Engineering and Decision Analytics'
   roles:
     - date_html: '2025/03/10–04/17, 2026/03/04–04/23'
 
-- institution_html: '<span style="font-family: American Typewriter;">**Soochow University**</span>, Center for Financial Engineering'
+- institution_html: '<span style="font-family: American Typewriter;"><strong>Soochow University</strong></span>, Center for Financial Engineering'
   roles:
     - date_html: '2018/06/15–07/15, 2019/08/14–08/28, 2020/01/07–01/15'
 
-- institution_html: '<span style="font-family: American Typewriter;">**Xiamen University**</span>, The Wang Yanan Institute for Studies in Economics'
+- institution_html: '<span style="font-family: American Typewriter;"><strong>Xiamen University</strong></span>, The Wang Yanan Institute for Studies in Economics'
   roles:
     - date_html: '2018/06/02–06/11, 2019/10/15–10/25'
