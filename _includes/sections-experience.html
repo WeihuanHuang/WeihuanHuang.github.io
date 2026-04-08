@@ -1,14 +1,39 @@
-{% if site.analytics.provider and page.analytics != false %}
+<style>
+.exp-list {
+  margin-top: 1rem;
+}
 
-{% case site.analytics.provider %}
-{% when "google" %}
-  {% include /analytics-providers/google.html %}
-{% when "google-universal" %}
-  {% include /analytics-providers/google-universal.html %}
-{% when "google-analytics-4" %}
-  {% include /analytics-providers/google-analytics-4.html %}
-{% when "custom" %}
-  {% include /analytics-providers/custom.html %}
-{% endcase %}
+.exp-item {
+  margin: 0 0 1.3rem 0;
+  padding: 0 0 1rem 0;
+  border-bottom: 1px solid #e6e6e6;
+}
 
-{% endif %}
+.exp-school {
+  font-size: 1.08rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-bottom: 0.2rem;
+}
+
+.exp-program {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 0.15rem;
+}
+
+.exp-dates {
+  font-size: 0.96rem;
+  color: #666;
+}
+</style>
+
+<div class="exp-list">
+  {% for item in site.data.experience %}
+    <div class="exp-item">
+      <div class="exp-school">{{ item.title_html }}</div>
+      <div class="exp-program">{{ item.program }}</div>
+      <div class="exp-dates">{{ item.dates }}</div>
+    </div>
+  {% endfor %}
+</div>
