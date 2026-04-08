@@ -1,0 +1,21 @@
+- institution_html: '<span style="font-family: American Typewriter;"><strong>Nanjing University</strong></span>, School of Management & Engineering'
+  roles:
+    - date_html: '2025/03–present:'
+      position_html: '<span style="font-family: American Typewriter;"><strong>Tenure-Track Assistant Professor</strong></span> (TTAP) & <span style="font-family: American Typewriter;"><strong>Research Professor</strong></span> (RP)'
+    - date_html: '2022/08–2025/02:'
+      position_html: '<span style="font-family: American Typewriter;"><strong>Research Assistant Professor</strong></span> (RAP)'
+
+- institution_html: '<span style="font-family: American Typewriter;"><strong>Fudan University</strong></span>, School of Data Science'
+  roles:
+    - date_html: '2020/08–2022/07:'
+      position_html: '<span style="font-family: American Typewriter;"><strong>Postdoc</strong></span> in Statistics, Advisor: Prof. L. Jeff Hong'
+
+- institution_html: '<span style="font-family: American Typewriter;"><strong>Shandong University</strong></span>, Institute for Financial Studies'
+  roles:
+    - date_html: '2015/09–2020/06:'
+      position_html: '<span style="font-family: American Typewriter;"><strong>Ph.D.</strong></span> in Mathematics, Advisor: Prof. Zengjing Chen'
+
+- institution_html: '<span style="font-family: American Typewriter;"><strong>The University of Kansas</strong></span>, Department of Economics'
+  roles:
+    - date_html: '2017/09–2019/08:'
+      position_html: '<span style="font-family: American Typewriter;"><strong>Joint-Ph.D.</strong></span> in Economics, Advisor: Prof. Zongwu Cai'
