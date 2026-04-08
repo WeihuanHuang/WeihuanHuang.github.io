@@ -1,21 +1,21 @@
-- institution_html: "<strong>Nanjing University</strong>, School of Management & Engineering"
+- institution_html: "<span style="font-family: American Typewriter;">**Nanjing University**</span>, School of Management & Engineering"
   roles:
-    - dates: "2025/03--present"
-      title: "Tenure-Track Assistant Professor (TTAP) & Research Professor (RP)"
-    - dates: "2022/08--2025/02"
-      title: "Research Assistant Professor (RAP)"
+    - dates: "2025/03--present:"
+      title: "<span style="font-family: American Typewriter;">**Tenure-Track Assistant Professor**</span> (TTAP) & <span style="font-family: American Typewriter;">**Research Professor**</span> (RP)"
+    - dates: "2022/08--2025/02:"
+      title: "<span style="font-family: American Typewriter;">**Research Assistant Professor**</span> (RAP)"
 
-- institution_html: "<strong>Fudan University</strong>, School of Data Science"
+- institution_html: "<span style="font-family: American Typewriter;">**Fudan University**</span>, School of Data Science"
   roles:
-    - dates: "2020/08--2022/07"
-      title: "Postdoc in Statistics, Advisor: Prof. L. Jeff Hong"
+    - dates: "2020/08--2022/07:"
+      title: "<span style="font-family: American Typewriter;">**Postdoc**</span> in Statistics, Advisor: Prof. L. Jeff Hong"
 
-- institution_html: "<strong>Shandong University</strong>, Institute for Financial Studies"
+- institution_html: "<span style="font-family: American Typewriter;">**Shandong University**</span>, Institute for Financial Studies"
   roles:
-    - dates: "2015/09--2020/06"
-      title: "Ph.D. in Mathematics, Advisor: Prof. Zengjing Chen"
+    - dates: "2015/09--2020/06:"
+      title: "<span style="font-family: American Typewriter;">**Ph.D.**</span> in Mathematics, Advisor: Prof. Zengjing Chen"
 
-- institution_html: "<strong>The University of Kansas</strong>, Department of Economics"
+- institution_html: "<span style="font-family: American Typewriter;">**The University of Kansas**</span>, Department of Economics"
   roles:
-    - dates: "2017/09--2019/08"
-      title: "Joint-Ph.D. in Economics, Advisor: Prof. Zongwu Cai"
+    - dates: "2017/09--2019/08:"
+      title: "<span style="font-family: American Typewriter;">**Joint-Ph.D.**</span> in Economics, Advisor: Prof. Zongwu Cai"
