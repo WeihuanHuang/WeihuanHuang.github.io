@@ -23,7 +23,7 @@ redirect_from:
 |-----------|
 | <span style="font-size: 18px; text-align: justify; display: block; margin: 12px;">Weihuan Huang (Chinese: 黄伟桓), <span style="color: #D32F2F; font-family: American Typewriter;">**Ph.D. in Mathematics**</span> from Shandong University and <span style="color: #F57C20; font-family: American Typewriter;">**Postdoc in Statistics**</span> from Fudan University, currently is a <span style="color: #FBC02D; font-family: American Typewriter;">**Tenure-Track Assistant Professor**</span> (specially appointed as a <span style="color: #388E3C; font-family: American Typewriter;">**Research Professor**</span>) at <span style="font-family: American Typewriter;">**Nanjing University**</span>. His <span style="color: #1976D2; font-family: American Typewriter;">**research interests**</span> encompass probability, statistics, simulation, optimization, with particular focus on developing new stochastic models and algorithms at their interfaces with machine learning, financial engineering, risk management, operations management, econometrics. His <span style="color: #5C6BC0; font-family: American Typewriter;">**research work**</span> has been published in several prestigious academic journals, including <span style="font-family: American Typewriter;">***Operations Research***</span>. He is the <span style="color: #8E24AA; font-family: American Typewriter;">**principal investigator**</span> of a young scientists fund program supported by National Natural Science Foundation of China.</span> |
 
-***
+<hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
 <div id="experience" class="section-anchor"></div>
 
