@@ -50,10 +50,13 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
 * **Contextual and Crosscutting Areas:** <span style="font-family: American Typewriter;">Machine Learning</span>, <span style="font-family: American Typewriter;">Financial Engineering</span>, <span style="font-family: American Typewriter;">Risk Management</span>, <span style="font-family: American Typewriter;">Operations Management</span>, <span style="font-family: American Typewriter;">Econometrics</span>;
 * **Research Paradigms:** Developing new <span style="font-family: American Typewriter;">stochastic models and algorithms</span> to better characterize uncertainty phenomena and improve decision-making under uncertainty.
 
-Selected Papers
+Featured Papers
 ======
 
 {% include publications_custom.html %}
+
+Full List of Papers
+======
 
 * Dongxuan Zhu, **Weihuan Huang**, Caihua Chen (2025+) Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization. Submitted.
 * **Weihuan Huang** (2023+) Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method. Submitted.
