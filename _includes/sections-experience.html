@@ -14,12 +14,21 @@
 }
 
 .exp-role {
+  display: grid;
+  grid-template-columns: 11.5rem 1fr;
+  column-gap: 0.75rem;
   margin: 0.28rem 0;
+  align-items: start;
 }
 
 @media (max-width: 768px) {
   .exp-roles {
     margin-left: 0.9rem;
+  }
+
+  .exp-role {
+    grid-template-columns: 1fr;
+    row-gap: 0.1rem;
   }
 }
 </style>
@@ -31,7 +40,10 @@
 
       <div class="exp-roles">
         {% for role in item.roles %}
-          <div class="exp-role">{{ role.line_html }}</div>
+          <div class="exp-role">
+            <div>{{ role.date_html }}</div>
+            <div>{{ role.position_html }}</div>
+          </div>
         {% endfor %}
       </div>
     </div>
