@@ -6,7 +6,7 @@
 .exp-item {
   margin: 0 0 1.4rem 0;
   padding: 0.1rem 0 0.1rem 1rem;
-  border-left: 3px solid #e3e7ee; /* 浅色竖线 */
+  border-left: 3px solid #e3e7ee;
 }
 
 .exp-school {
@@ -17,7 +17,7 @@
 }
 
 .exp-roles {
-  margin-left: 1.25rem;   /* 这一句就是“相对学校名再缩进一层”的关键 */
+  margin-left: 1.25rem;
 }
 
 .exp-role {
@@ -36,6 +36,10 @@
 }
 
 @media (max-width: 768px) {
+  .exp-roles {
+    margin-left: 0.9rem;
+  }
+
   .exp-dates {
     display: block;
     min-width: 0;
@@ -48,12 +52,15 @@
   {% for item in site.data.experience %}
     <div class="exp-item">
       <div class="exp-school">{{ item.institution_html }}</div>
-      {% for role in item.roles %}
-        <div class="exp-role">
-          <span class="exp-dates">{{ role.dates }}</span>
-          <span class="exp-title">{{ role.title }}</span>
-        </div>
-      {% endfor %}
+
+      <div class="exp-roles">
+        {% for role in item.roles %}
+          <div class="exp-role">
+            <span class="exp-dates">{{ role.dates }}</span>
+            <span class="exp-title">{{ role.title }}</span>
+          </div>
+        {% endfor %}
+      </div>
     </div>
   {% endfor %}
 </div>
