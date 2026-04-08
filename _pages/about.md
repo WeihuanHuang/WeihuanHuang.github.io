@@ -53,6 +53,8 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
 Selected Papers
 ======
 
+{% include sections/publications_custom.html %}
+
 * Dongxuan Zhu, **Weihuan Huang**, Caihua Chen (2025+) Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization. Submitted.
 * **Weihuan Huang** (2023+) Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method. Submitted.
 * L. Jeff Hong, **Weihuan Huang**, Jiheng Zhang, Xiaowei Zhang (2023+) [Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules](https://arxiv.org/abs/2311.11279). Under "Minor Revision" at <span style="font-family: American Typewriter;">***Management Science***</span>.
