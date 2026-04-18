@@ -53,7 +53,9 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
 Featured Papers
 ======
 
-<hr style="border: none; height: 2px; background-color: #ddd; margin: 10px 0;">
+hr {
+  margin: 10px 0;
+}
 
 {% include publications_custom.html %}
 
