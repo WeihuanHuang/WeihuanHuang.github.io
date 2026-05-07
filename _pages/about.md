@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <h1 style="font-size: 20px; line-height: 1; margin-bottom: 0;">Weihuan Huang, Ph.D.</h1>
-(Chinese: 黄伟桓, The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
+(Chinese: 黄伟桓. The name is pronounced as /weɪ hwɑːn hwɑːŋ/ in English.)
 
 **Assistant Professor (Tenure-Track)**<br>
 [Department of Financial Technology & Engineering](https://sme.nju.edu.cn/jrkjygcx/list.htm)<br>
