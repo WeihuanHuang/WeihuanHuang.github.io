@@ -163,7 +163,7 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 
 * 2026/11/01–11/04 (Invited Speaker) 2026 INFORMS Annual Meeting @ San Francisco
 * 2026/07/17–07/20 (Group Speaker) Human–AI Collaborative Operations for a Better World, 2026 POMS International Conference in China @ School of Management, Xi'an Jiaotong University
-* 2026/06/12–06/14 (大会特邀报告人 & 圆桌论坛嘉宾) 第九届仿真方法和应用研讨会 @ Tianjin University
+* 2026/06/12–06/14 (Plenary Speaker & Panel Discussion Speaker) 第九届仿真方法和应用研讨会 @ Tianjin University
 * 2025/11/01–11/02 (Discussant) 第二十二届中国金融学年会 @ Nanjing University
 * 2024/12/18 (Lecture Speaker) @ 蚂蚁集团, Online
 * 2024/09/06–09/07 (Lecture Speaker) 全国优秀大学生暑期夏令营二期 @ School of Management & Engineering, Nanjing University
@@ -182,7 +182,7 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 * 2020/11/7 (Invited Speaker) 第二届中国优选法、统筹法与经济数学研究会量化金融与保险分会学术年会, @ Shandong University of Finance and Economics, Online
 * 2020/10/24 (Invited Speaker) 第二届香樟金融学论坛, @ Zhongnan University of Economics and Law, Online
 * 2020/05/18 (Lecture Speaker) @ WISE, Xiamen University, Online
-* 2019/05/02–05/04 (Invited Speaker) Market Microstructure and High Frequency Data, @ Stevanovich Center for Financial Mathematics, University of Chicago
+* 2019/05/02–05/04 (Plenary Speaker) Market Microstructure and High Frequency Data, @ Stevanovich Center for Financial Mathematics, University of Chicago
 * 2019/04/06–04/07 (Invited Speaker) Chinese Economists Society, North American Conference, @ Department of Economics, University of Kansas
 * 2017/05/06–05/14 (Group Speaker) Fields-China Joint Industrial Problem Solving Workshop in Finance, @ Fields Institute, University of Toronto
 
