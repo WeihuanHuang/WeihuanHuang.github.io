@@ -48,7 +48,7 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
 
 <div class="research-two-col">
 
-  <div class="research-left">
+  <div class="research-left" markdown="1">
 
 * **Methods:** <span style="font-family: American Typewriter;">Probability</span>, <span style="font-family: American Typewriter;">Statistics</span>, <span style="font-family: American Typewriter;">Simulation</span>, <span style="font-family: American Typewriter;">Optimization</span>, <span style="font-family: American Typewriter;">Machine Learning</span>;
 * **Contextual and Crosscutting Areas:** <span style="font-family: American Typewriter;">Financial Engineering</span>, <span style="font-family: American Typewriter;">Risk Management</span>, <span style="font-family: American Typewriter;">Operations Management</span>, <span style="font-family: American Typewriter;">Econometrics</span>;
