@@ -51,13 +51,19 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
   <div class="research-left">
     <ul>
       <li>
-        <strong>Methods:</strong> Probability, Statistics, Simulation, Optimization, Machine Learning;
+        <strong>Methods:</strong> 
+        
+        Probability, Statistics, Simulation, Optimization, Machine Learning;
       </li>
       <li>
-        <strong>Contextual and Crosscutting Areas:</strong> Financial Engineering, Risk Management, Operations Management, Econometrics;
+        <strong>Contextual and Crosscutting Areas:</strong> 
+        
+        Financial Engineering, Risk Management, Operations Management, Econometrics;
       </li>
       <li>
-        <strong>Research Paradigms:</strong> Developing new stochastic models and algorithms to better characterize uncertainty phenomena and improve decision-making under uncertainty.
+        <strong>Research Paradigms:</strong> 
+        
+        Developing new stochastic models and algorithms to better characterize uncertainty phenomena and improve decision-making under uncertainty.
       </li>
     </ul>
   </div>
