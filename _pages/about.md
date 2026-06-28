@@ -46,9 +46,21 @@ Short-term Visit
 R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><span style="color: #FBC02D;">e</span><span style="color: #388E3C;">a</span><span style="color: #1976D2;">r</span><span style="color: #5C6BC0;">c</span><span style="color: #8E24AA;">h</span> Interests
 ======
 
+<div class="research-two-col">
+
+  <div class="research-left">
+
 * **Methods:** <span style="font-family: American Typewriter;">Probability</span>, <span style="font-family: American Typewriter;">Statistics</span>, <span style="font-family: American Typewriter;">Simulation</span>, <span style="font-family: American Typewriter;">Optimization</span>, <span style="font-family: American Typewriter;">Machine Learning</span>;
 * **Contextual and Crosscutting Areas:** <span style="font-family: American Typewriter;">Financial Engineering</span>, <span style="font-family: American Typewriter;">Risk Management</span>, <span style="font-family: American Typewriter;">Operations Management</span>, <span style="font-family: American Typewriter;">Econometrics</span>;
 * **Research Paradigms:** Developing new <span style="font-family: American Typewriter;">stochastic models and algorithms</span> to better characterize uncertainty phenomena and improve decision-making under uncertainty.
+
+  </div>
+
+  <div class="research-right">
+    <img src="/images/research_interests.png" alt="Research interests visualization">
+  </div>
+
+</div>
 
 Featured Papers
 ======
