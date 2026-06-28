@@ -52,7 +52,7 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
     <ul>
       <li>
         <strong>Methods:</strong> 
-        
+        <br>
         Probability, Statistics, Simulation, Optimization, Machine Learning;
       </li>
       <li>
