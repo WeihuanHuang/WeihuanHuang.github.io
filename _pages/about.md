@@ -48,12 +48,18 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
 
 <div class="research-two-col">
 
-  <div class="research-left" markdown="1">
-
-* **Methods:** <span style="font-family: American Typewriter;">Probability</span>, <span style="font-family: American Typewriter;">Statistics</span>, <span style="font-family: American Typewriter;">Simulation</span>, <span style="font-family: American Typewriter;">Optimization</span>, <span style="font-family: American Typewriter;">Machine Learning</span>;
-* **Contextual and Crosscutting Areas:** <span style="font-family: American Typewriter;">Financial Engineering</span>, <span style="font-family: American Typewriter;">Risk Management</span>, <span style="font-family: American Typewriter;">Operations Management</span>, <span style="font-family: American Typewriter;">Econometrics</span>;
-* **Research Paradigms:** Developing new <span style="font-family: American Typewriter;">stochastic models and algorithms</span> to better characterize uncertainty phenomena and improve decision-making under uncertainty.
-
+  <div class="research-left">
+    <ul>
+      <li>
+        <strong>Methods:</strong> Probability, Statistics, Simulation, Optimization, Machine Learning;
+      </li>
+      <li>
+        <strong>Contextual and Crosscutting Areas:</strong> Financial Engineering, Risk Management, Operations Management, Econometrics;
+      </li>
+      <li>
+        <strong>Research Paradigms:</strong> Developing new stochastic models and algorithms to better characterize uncertainty phenomena and improve decision-making under uncertainty.
+      </li>
+    </ul>
   </div>
 
   <div class="research-right">
