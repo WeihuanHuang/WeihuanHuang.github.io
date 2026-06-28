@@ -52,12 +52,12 @@ R<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">s</span><sp
     <ul>
       <li>
         <strong>Methods:</strong> <br>
-        Probability, Statistics, Simulation, Optimization, Machine Learning;
+        Probability, Statistics, Simulation, Optimization, and Machine Learning;
       </li>
       <li>
         <strong>Contextual and Crosscutting Areas:</strong> <br>
         
-        Financial Engineering, Risk Management, Operations Management, Econometrics;
+        Financial Engineering, Risk Management, Operations Management, and Econometrics;
       </li>
       <li>
         <strong>Research Paradigms:</strong> <br>
