@@ -101,7 +101,7 @@ Full List of Papers
 * [Strong Law of Large Numbers under Moment Restrictions in Sublinear Expectation Spaces](https://doi.org/10.1080/03610926.2021.1903504)
   - **Weihuan Huang**, Panyu Wu (2022)
   - <span style="font-family: American Typewriter;">***Communications in Statistics - Theory and Methods***</span> 51(24): 8671–8683.
-* [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010)
+* [1] [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010)
   - Zengjing Chen, **Weihuan Huang**, Panyu Wu (2019)
   - <span style="font-family: American Typewriter;">***Mathematical Control and Related Fields***</span> 9(1): 175--190.
 
