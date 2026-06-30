@@ -83,22 +83,22 @@ Featured Papers
 Full List of Papers
 ======
 
-* [Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization](https://arxiv.org/abs/2507.18277)
+* [7] [Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization](https://arxiv.org/abs/2507.18277)
   - Dongxuan Zhu, **Weihuan Huang**, Caihua Chen (2025+)
   - Submitted.
-* [Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method](https://arxiv.org/abs/2310.18658)
+* [6] [Estimating Systemic Risk within Financial Networks: A Simulation-Based Nonparametric Method](https://arxiv.org/abs/2310.18658)
   - **Weihuan Huang** (2023+)
   - Submitted.
-* [Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules](https://arxiv.org/abs/2311.11279)
+* [5] [Staffing under Taylor's Law: A Unifying Framework for Bridging Square-root and Linear Safety Rules](https://arxiv.org/abs/2311.11279)
   - L. Jeff Hong, **Weihuan Huang**, Jiheng Zhang, Xiaowei Zhang (2023+)
   - <span style="font-family: American Typewriter;">***Management Science***</span> (Under Minor Revision).
-* [Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3780493)
+* [4] [Trading Behavior of Large and Small Investors in the Presence of Large Investor Premium](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3780493)
   - **Weihuan Huang**, Chenghu Ma, Yuhong Xu (2023+)
   - <span style="font-family: American Typewriter;">***Mathematics of Operations Research***</span> (Under Major Revision).
-* [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211)
+* [3] [Monte Carlo Estimation of CoVaR](https://doi.org/10.1287/opre.2023.0211)
   - **Weihuan Huang**, Nifei Lin, L. Jeff Hong (2024)
   - <span style="font-family: American Typewriter;">***Operations Research***</span> 72(6): 2337--2357.
-* [Strong Law of Large Numbers under Moment Restrictions in Sublinear Expectation Spaces](https://doi.org/10.1080/03610926.2021.1903504)
+* [2] [Strong Law of Large Numbers under Moment Restrictions in Sublinear Expectation Spaces](https://doi.org/10.1080/03610926.2021.1903504)
   - **Weihuan Huang**, Panyu Wu (2022)
   - <span style="font-family: American Typewriter;">***Communications in Statistics - Theory and Methods***</span> 51(24): 8671–8683.
 * [1] [Extension of the Strong Law of Large Numbers for Capacities](https://doi.org/10.3934/mcrf.2019010)
