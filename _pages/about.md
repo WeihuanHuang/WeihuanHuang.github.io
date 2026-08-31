@@ -131,7 +131,7 @@ T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><sp
 
 * **Instructor:** <span style="font-family: American Typewriter;">*Principles of Economics*</span>
   - For undergraduate students at Nanjing University
-  - Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026
+  - Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
 * **Instructor:** <span style="font-family: American Typewriter;">*Advanced Functional Analysis*</span>
   - For international graduate students at Shandong University
   - Fall 2019
