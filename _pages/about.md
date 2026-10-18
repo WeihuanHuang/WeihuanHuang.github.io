@@ -185,6 +185,7 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 ======
 
 * 2026/11/01–11/04 **(Invited Group Speaker)** 2026 INFORMS Annual Meeting @ San Francisco
+* 2026/10/16–10/18 **(Award Finalist Presentation)** 2026 ORSC Annual Meeting @ Suzhou
 * 2026/07/17–07/20 **(Invited Group Speaker)** Human–AI Collaborative Operations for a Better World, 2026 POMS International Conference in China @ School of Management, Xi'an Jiaotong University
 * 2026/06/12–06/14 **(Plenary Speaker & Panel Discussion Speaker)** 第九届仿真方法和应用研讨会 @ Tianjin University
 * 2025/11/01–11/02 **(Discussant)** 第二十二届中国金融学年会 @ Nanjing University
