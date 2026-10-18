@@ -115,6 +115,8 @@ Full List of Papers
 Awa<span style="color: #D32F2F;">r</span><span style="color: #F57C20;">d</span><span style="color: #FBC02D;">s</span><span style="color: #388E3C;"> & </span><span style="color: #1976D2;">H</span><span style="color: #5C6BC0;">o</span><span style="color: #8E24AA;">n</span>ors
 ======
 
+* <span style="font-family: American Typewriter;">2026 Youth Science and Technology Award (Honorable Mention)</span>
+  - from *Operations Research Society of China*
 * <span style="font-family: American Typewriter;">2025 Jiangsu Young Elite Scientists Sponsorship Program</span>
   - from *Jiangsu Province*
 * <span style="font-family: American Typewriter;">2022 Best Paper Award (The First Prize) for Young Scholars</span>
