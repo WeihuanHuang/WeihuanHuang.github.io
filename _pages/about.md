@@ -85,7 +85,7 @@ Full List of Papers
 
 * [8] Contextual Decision Making: Predictive or Generative
   - L. Jeff Hong, Weihuan Huang, Xinyao Li (2026+)
-  - Preprint.
+  - Submitted.
 * [7] [Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization](https://arxiv.org/abs/2507.18277)
   - Dongxuan Zhu, Weihuan Huang, Caihua Chen (2025+)
   - Submitted.
