@@ -83,7 +83,7 @@ Featured Papers
 Full List of Papers
 ======
 
-* [8] Contextual Decision Making: Predictive or Generative
+* [8] [Contextual Decision Making: Predictive or Generative](https://arxiv.org/abs/2610.32584)
   - L. Jeff Hong, Weihuan Huang, Xinyao Li (2026+)
   - Submitted.
 * [7] [Boosting Accelerated Proximal Gradient Method with Adaptive Sampling for Stochastic Composite Optimization](https://arxiv.org/abs/2507.18277)
