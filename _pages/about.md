@@ -184,7 +184,7 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 <span style="color: #D32F2F;">P</span><span style="color: #F57C20;">r</span><span style="color: #FBC02D;">e</span><span style="color: #388E3C;">s</span><span style="color: #1976D2;">e</span><span style="color: #5C6BC0;">n</span><span style="color: #8E24AA;">t</span>ation
 ======
 
-* 2026/11/20–11/22 **(Award Finalist Presentation)** 2026 JORS Annual Meeting @ Xuzhou
+* 2026/11/20–11/22 **(Award Finalist Presentation)** 2026 JORS Annual Meeting @ China University of Mining and Technology
 * 2026/11/01–11/04 **(Invited Group Speaker)** 2026 INFORMS Annual Meeting @ San Francisco
 * 2026/10/16–10/18 **(Award Finalist Presentation)** 2026 ORSC Annual Meeting @ Suzhou
 * 2026/07/17–07/20 **(Invited Group Speaker)** Human–AI Collaborative Operations for a Better World, 2026 POMS International Conference in China @ School of Management, Xi'an Jiaotong University
