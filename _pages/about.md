@@ -133,7 +133,7 @@ T<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">a</span><sp
 
 * **Instructor:** <span style="font-family: American Typewriter;">*Principles of Economics*</span>
   - For undergraduate students at Nanjing University
-  - Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026
+  - Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025, Spring 2026, Fall 2026, Spring 2027
 * **Instructor:** <span style="font-family: American Typewriter;">*Advanced Functional Analysis*</span>
   - For international graduate students at Shandong University
   - Fall 2019
@@ -215,4 +215,4 @@ Acad<span style="color: #D32F2F;">e</span><span style="color: #F57C20;">m</span>
 
 <hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
-<span style="font-size: 22px; margin: 8px;"> <span style="color: #D32F2F;">**U**</span><span style="color: #F57C20;">**p**</span><span style="color: #FBC02D;">**d**</span><span style="color: #388E3C;">**a**</span><span style="color: #1976D2;">**t**</span><span style="color: #5C6BC0;">**e**</span><span style="color: #8E24AA;">**d**</span>:</span> <span style="font-size: 18px; text-align: justify; display: block; margin: 12px;"> Oct 26, 2026. </span>
+<span style="font-size: 22px; margin: 8px;"> <span style="color: #D32F2F;">**U**</span><span style="color: #F57C20;">**p**</span><span style="color: #FBC02D;">**d**</span><span style="color: #388E3C;">**a**</span><span style="color: #1976D2;">**t**</span><span style="color: #5C6BC0;">**e**</span><span style="color: #8E24AA;">**d**</span>:</span> <span style="font-size: 18px; text-align: justify; display: block; margin: 12px;"> Nov 12, 2026. </span>
