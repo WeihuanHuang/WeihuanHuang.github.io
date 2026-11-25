@@ -153,6 +153,7 @@ Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;
 * *Asia-Pacific Journal of Operational Research*
 * *Applied Mathematics-A Journal of Chinese Universities*
 * *Communications in Statistics - Theory and Methods*
+* *Journal of Management Science* (in Chinese)
 * *Operations Research Transactions* (in Chinese)
 * *Journal of Systems & Management* (in Chinese)
 
