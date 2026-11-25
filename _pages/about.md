@@ -151,11 +151,11 @@ Adhoc Referee <span style="color: #D32F2F;">S</span><span style="color: #F57C20;
 * *Reliability Engineering & System Safety*
 * *Journal of the Operations Research Society of China*
 * *Asia-Pacific Journal of Operational Research*
-* *Applied Mathematics-A Journal of Chinese Universities*
 * *Communications in Statistics - Theory and Methods*
+* *Applied Mathematics-A Journal of Chinese Universities*
 * *Journal of Management Science* (in Chinese)
-* *Operations Research Transactions* (in Chinese)
 * *Journal of Systems & Management* (in Chinese)
+* *Operations Research Transactions* (in Chinese)
 
 <hr style="border: none; height: 3px; background-color: #999; margin: 24px 0;">
 
